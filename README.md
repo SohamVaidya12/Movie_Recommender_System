@@ -93,6 +93,8 @@ Before recommendation:
 - Year values are extracted from movie titles
 - Genres are standardized for better matching
 
+---
+
 ## 📂 Project Structure
 
 ```bash
