@@ -1,5 +1,8 @@
 
 # 🎬 CineFusion AI
+<p align="center">
+  <img src="L1.png" width="400">
+</p>
 
 CineFusion AI is a **genre-based movie recommendation system** built using **Python, Scikit-learn, Pandas, and Gradio**.  
 The system allows users to choose between **Hollywood** and **Bollywood** movie industries and get recommendations based on their selected **genre**.
