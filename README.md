@@ -169,30 +169,13 @@ Final results are displayed through an interactive **Gradio interface**.
 ---
 
 ## 📊 System Architecture Diagram
+<p align="center">
+  <img src="mermaid-diagram.png" width="500">
+</p>
 
 **Figure 1: Block Diagram of CineFusion AI**
 
-```mermaid
-flowchart TD
-    A[User Input] --> B[Select Industry]
-    A --> C[Select Genre]
-    A --> D[Select Number of Movies]
 
-    B --> E{Dataset Selection}
-    E -->|Hollywood| F[movie.csv]
-    E -->|Bollywood| G[bollywood_movies_only_2200.csv]
-
-    F --> H[Data Preprocessing]
-    G --> H
-
-    H --> I[TF-IDF Vectorization]
-    I --> J[Cosine Similarity]
-
-    J --> K[Recommendation Engine]
-    K --> L[Top N Movies]
-
-    L --> M[Gradio Interface]
-    M --> N[Display Results + Trailer Links]
 
 ## 📂 Project Structure
 
