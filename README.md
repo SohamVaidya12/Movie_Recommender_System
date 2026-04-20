@@ -178,6 +178,19 @@ Final results are displayed through an interactive **Gradio interface**.
 </p>
 ---
 
+## 📂 Conclusion
+
+CineFusion AI presents an effective and scalable solution for movie recommendation using a **content-based filtering approach**. By leveraging **TF-IDF vectorization** and **cosine similarity**, the system accurately identifies and suggests movies that match user preferences.
+
+The inclusion of both **Hollywood and Bollywood datasets** enhances the system’s versatility, while the **Gradio-based interface** ensures a smooth and interactive user experience.
+
+This project demonstrates the practical application of machine learning techniques in recommendation systems and lays the groundwork for future improvements such as hybrid models, user personalization, and advanced filtering mechanisms.
+
+In conclusion, CineFusion AI effectively bridges user preferences with relevant movie suggestions, showcasing the power of data-driven decision-making in entertainment.
+
+---
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -197,13 +210,5 @@ CineFusion-AI/
 │
 └── assets/
     └── demo_screenshot.png
+---
 
-**## 📌 Conclusion**
-
-CineFusion AI presents an effective and scalable solution for movie recommendation using a **content-based filtering approach**. By leveraging **TF-IDF vectorization** and **cosine similarity**, the system accurately identifies and suggests movies that match user preferences.
-
-The inclusion of both **Hollywood and Bollywood datasets** enhances the system’s versatility, while the **Gradio-based interface** ensures a smooth and interactive user experience.
-
-This project demonstrates the practical application of machine learning techniques in recommendation systems and lays the groundwork for future improvements such as hybrid models, user personalization, and advanced filtering mechanisms.
-
-In conclusion, CineFusion AI effectively bridges user preferences with relevant movie suggestions, showcasing the power of data-driven decision-making in entertainment systems.
