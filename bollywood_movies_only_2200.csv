@@ -1,0 +1,2200 @@
+movieId,title,genres
+1,Jawan (2023),Action|Thriller
+2,Jaane Jaan (2023),Crime|Drama|Mystery
+3,Jailer (2023),Action|Comedy|Crime
+4,Rocky Aur Rani Kii Prem Kahaani (2023),Comedy|Drama|Children
+5,OMG 2 (2023),Comedy|Drama
+6,Sukhee (2023),Drama
+7,The Great Indian Family (2023),Children
+8,The BFG (2016),Adventure|Children|Fantasy
+9,Pathaan (2023),Action|Adventure|Thriller
+10,Mastaney (2023),Action|Drama
+11,3 Idiots (2009),Comedy|Drama
+12,Satyaprem Ki Katha (2023),Comedy|Drama|Musical
+13,Lion (2016),Drama
+14,Bholaa Shankar (2023),Action|Drama
+15,Haddi (2023),Crime|Drama
+16,Friday Night Plan (2023),Comedy|Drama
+17,Neeyat (2023),Crime|Mystery|Thriller
+18,Gadar 2 (2023),Action|Adventure|Drama
+19,Por Thozhil (2023),Action|Crime|Thriller
+20,Life of Pi (2012),Adventure|Drama|Fantasy
+21,Asoka (2001),Action|Drama
+22,The Darjeeling Limited (2007),Adventure|Comedy|Drama
+23,Dangal (2016),Action|Drama
+24,Tumbbad (2018),Drama|Fantasy|Horror
+25,Dunki (2023),Comedy|Drama
+26,Sirf Ek Bandaa Kaafi Hai (2023),Crime|Drama|Thriller
+27,Gangs of Wasseypur (2012),Action|Comedy|Crime
+28,Khufiya (2023),Action|Drama|Crime
+29,Animal (2023),Action|Crime|Drama
+30,Miss Shetty Mr Polishetty (2023),Comedy|Drama|Romance
+31,Bawaal (2023),Action|Drama|Romance
+32,Brahmastra Part One: Shiva (2022),Action|Adventure|Fantasy
+33,Ghoomer (2023),Drama
+34,Tiger 3 (2023),Action|Adventure|Thriller
+35,Tu Jhoothi Main Makkaar (2023),Comedy|Romance
+36,Drishyam 2 (2022),Crime|Drama|Mystery
+37,Gandhi (1982),Drama
+38,PK (2014),Comedy|Drama|Sci-Fi
+39,My Name Is Khan (2010),Adventure|Drama|Romance
+40,Raees (2017),Action|Crime|Drama
+41,Rama Banam (2023),Action|Drama
+42,Andhadhun (2018),Crime|Mystery|Thriller
+43,Thank You for Coming (2023),Comedy
+44,Dream Girl 2 (2023),Comedy|Drama|Romance
+45,Kushi (2023),Comedy|Drama|Romance
+46,Taare Zameen Par (2007),Drama|Children
+47,Drishyam (2015),Crime|Drama|Mystery
+48,Chor Nikal Ke Bhaga (2023),Crime|Drama|Thriller
+49,Gangubai Kathiawadi (2022),Drama|Crime
+50,Gaslight (2023),Crime|Horror|Mystery
+51,The Buckingham Murders (2023),Thriller
+52,Fighter (2024),Action|Adventure|Thriller
+53,Bholaa (2023),Action|Adventure|Crime
+54,Om Shanti Om (2007),Action|Comedy|Drama
+55,Kabhi Khushi Kabhie Gham... (2001),Drama|Musical|Romance
+56,The Kerala Story (2023),Drama
+57,Vikram Vedha (2022),Action|Crime|Drama
+58,"Swades: We, the People (2004)",Drama|Musical
+59,Bajrangi Bhaijaan (2015),Action|Adventure|Comedy
+60,Bloody Daddy (2023),Action|Crime|Drama
+61,The Hundred-Foot Journey (2014),Comedy|Drama
+62,The Kashmir Files (2022),Drama
+63,Akelli (2023),Drama|Thriller
+64,OMG: Oh My God! (2012),Comedy|Drama|Fantasy
+65,Adipurush (2023),Action|Adventure|Drama
+66,IB 71 (2023),Action|Thriller
+67,Padmaavat (2018),Drama|Romance
+68,Zindagi Na Milegi Dobara (2011),Comedy|Drama|Musical
+69,Jab Tak Hai Jaan (2012),Drama|Romance
+70,Monica O My Darling (2022),Comedy|Crime|Drama
+71,Bhediya (2022),Comedy|Fantasy|Horror
+72,Ra.One (2011),Action|Adventure|Sci-Fi
+73,Laal Singh Chaddha (2022),Comedy|Drama|Romance
+74,Don 2 (2011),Action|Crime|Thriller
+75,Chup (2022),Crime|Drama|Mystery
+76,Kuch Kuch Hota Hai (1998),Comedy|Drama|Musical
+77,Don (2006),Action|Crime|Thriller
+78,Devdas (2002),Drama|Musical|Romance
+79,Badla (2019),Crime|Drama|Mystery
+80,Gumraah (2023),Action|Crime|Drama
+81,The Lunchbox (2013),Drama|Romance
+82,Zara Hatke Zara Bachke (2023),Comedy|Drama|Children
+83,Street Fighter: The Legend of Chun-Li (2009),Action|Crime|Fantasy
+84,Ganapath (2023),Action|Drama|Sci-Fi
+85,Kalki 2898-AD (2024),Action|Drama|Fantasy
+86,Kal Ho Naa Ho (2003),Comedy|Drama|Musical
+87,Bride & Prejudice (2004),Comedy|Drama|Musical
+88,The White Tiger (2021),Crime|Drama
+89,Lust Stories 2 (2023),Drama|Romance
+90,Bajirao Mastani (2015),Action|Drama
+91,Kaun? (1999),Mystery|Thriller
+92,Dear Zindagi (2016),Drama|Romance
+93,Chhichhore (2019),Comedy|Drama|Romance
+94,Freddy (2022),Drama|Mystery|Romance
+95,Yeh Jawaani Hai Deewani (2013),Comedy|Drama|Musical
+96,Sir (2018),Drama|Romance
+97,Mrs. Chatterjee vs. Norway (2023),Drama
+98,Munna Bhai M.B.B.S. (2003),Comedy|Drama
+99,Fan (2016),Action|Drama|Thriller
+100,Welcome to the Jungle (2024),(no genres listed)
+101,Vikram Vedha (2017),Action|Crime|Drama
+102,Lagaan: Once Upon a Time in India (2001),Drama|Musical
+103,Trial Period (2023),Comedy|Drama
+104,Kathal: A Jackfruit Mystery (2023),Comedy|Crime|Drama
+105,Sardar Udham (2021),Drama|Crime
+106,Kisi Ka Bhai Kisi Ki Jaan (2023),Action|Comedy|Drama
+107,King of Kotha (2023),Action|Drama|Thriller
+108,Ek Tha Tiger (2012),Action|Adventure|Romance
+109,HIT: The First Case (2022),Action|Crime|Drama
+110,Singham Again (2024),Drama
+111,The Second Best Exotic Marigold Hotel (2015),Comedy|Drama|Romance
+112,Dilwale Dulhania Le Jayenge (1995),Drama|Romance
+113,Kill (2023),Action|Adventure|Drama
+114,October (2018),Drama|Romance
+115,An Action Hero (2022),Action|Comedy|Crime
+116,The Vaccine War (2023),Drama|Thriller
+117,Jab We Met (2007),Comedy|Drama|Romance
+118,K.G.F: Chapter 1 (2018),Action|Crime|Drama
+119,Mimi (2021),Comedy|Drama
+120,Afwaah (2023),Drama|Thriller
+121,Godfather (2022),Action|Crime|Drama
+122,Laila Majnu (2018),Drama|Romance
+123,Ghajini (2008),Action|Drama|Mystery
+124,Jab Harry Met Sejal (2017),Comedy|Drama|Romance
+125,Barfi! (2012),Comedy|Drama|Romance
+126,Mumbai Meri Jaan (2008),Drama
+127,Ludo (2020),Action|Comedy|Crime
+128,Haider (2014),Action|Crime|Drama
+129,Mission Majnu (2023),Action|Drama
+130,Talaash (2012),Crime|Drama|Mystery
+131,Ae Dil Hai Mushkil (2016),Drama|Musical
+132,A Wednesday (2008),Action|Crime|Drama
+133,Wajah Tum Ho (2016),Drama|Mystery|Romance
+134,Raazi (2018),Action|Drama|Thriller
+135,Dil Chahta Hai (2001),Comedy|Drama|Romance
+136,Bye2 (2020),Drama|Romance
+137,Darlings (2022),Comedy|Drama|Thriller
+138,Runway 34 (2022),Drama|Thriller
+139,Masaan (2015),Drama
+140,Sanju (2018),Drama|Comedy
+141,Govinda Naam Mera (2022),Comedy|Crime|Drama
+142,Rockstar (2011),Drama|Musical|Romance
+143,Mom (2017),Crime|Drama|Thriller
+144,Kalank (2019),Drama|Romance
+145,Article 15 (2019),Crime|Drama|Mystery
+146,Lust Stories (2018),Drama|Romance
+147,Shehzada (2023),Action|Comedy|Drama
+148,Zero (2018),Comedy|Drama|Romance
+149,A Thursday (2022),Drama|Thriller
+150,Rang De Basanti (2006),Comedy|Crime|Drama
+151,Rocketry: The Nambi Effect (2022),Drama
+152,Dilwale (2015),Action|Comedy|Drama
+153,Jug Jugg Jeeyo (2022),Comedy|Drama|Children
+154,Gully Boy (2019),Drama|Musical|Romance
+155,Chennai Express (2013),Action|Comedy|Drama
+156,War (2019),Action|Adventure|Thriller
+157,Shershaah (2021),Action|Drama
+158,Student of the Year 2 (2019),Action|Comedy|Drama
+159,Qala (2022),Drama|Musical
+160,Talvar (2015),Crime|Drama|Mystery
+161,Kuttey (2023),Action|Comedy|Crime
+162,Fukrey 3 (2023),Comedy|Crime|Drama
+163,Dangerous (2022),Action|Crime|Drama
+164,Bang Bang (2014),Action|Adventure|Comedy
+165,Hey Ram (2000),Crime|Drama
+166,83 (2021),Drama
+167,Selfiee (2023),Action|Comedy|Drama
+168,Veer-Zaara (2004),Drama|Children|Musical
+169,Goliyon Ki Rasleela Ram-Leela (2013),Drama|Musical|Romance
+170,Thugs of Hindostan (2018),Action|Adventure
+171,Bheed (2023),Drama
+172,Kabhi Alvida Naa Kehna (2006),Drama|Romance
+173,Badhaai Do (2022),Comedy|Crime|Drama
+174,Prem Ki Shaadi (2024),Drama|Romance
+175,Ghost Stories (2020),Horror|Thriller
+176,Pushpa: The Rule - Part 2 (2024),Action|Crime|Drama
+177,Climax (2020),Action|Horror|Thriller
+178,Stree (2018),Comedy|Horror
+179,Monsoon Wedding (2001),Comedy|Drama|Romance
+180,Delhi Belly (2011),Action|Comedy|Crime
+181,Mission Raniganj (2023),Drama
+182,Main Hoon Na (2004),Action|Comedy|Drama
+183,Gadar: Ek Prem Katha (2001),Action|Drama|Romance
+184,Bhagwan Bharose (2023),Comedy|Drama
+185,Omkara (2006),Action|Crime|Drama
+186,Chak De! India (2007),Drama|Children
+187,Mohabbatein (2000),Drama|Musical|Romance
+188,Krrish 3 (2013),Action|Adventure|Sci-Fi
+189,Kabir Singh (2019),Action|Drama|Romance
+190,Raat Akeli Hai (2020),Crime|Drama|Mystery
+191,Housefull 4 (2019),Action|Comedy|Drama
+192,Happy New Year (2014),Action|Comedy|Crime
+193,Ittefaq (2017),Crime|Mystery|Thriller
+194,Sultan (2016),Action|Drama|Romance
+195,Dil Dhadakne Do (2015),Comedy|Drama|Romance
+196,Dhokha: Round D Corner (2022),Crime|Drama|Thriller
+197,The Other Side of the Door (2016),Horror|Thriller
+198,Omerta (2017),Action|Drama|Crime
+199,Maqbool (2003),Crime|Drama|Thriller
+200,Satya (1998),Action|Crime|Drama
+201,Cirkus (2022),Comedy|Drama
+202,Merry Christmas (2023),Drama|Thriller
+203,Badlapur (2015),Action|Crime|Drama
+204,Kaun Kitney Paani Mein (2015),Comedy|Drama|Children
+205,Karwaan (2018),Adventure|Comedy|Drama
+206,Fukrey (2013),Comedy|Drama|Romance
+207,Mili (2022),Drama|Thriller
+208,Ugly (2013),Crime|Drama|Mystery
+209,Rab Ne Bana Di Jodi (2008),Comedy|Drama|Musical
+210,Tiger Zinda Hai (2017),Action|Adventure|Thriller
+211,Once Upon a Time in Mumbaai (2010),Action|Crime|Drama
+212,Salaam Venky (2022),Drama
+213,Vadh (2022),Crime|Drama|Thriller
+214,Faraaz (2022),Action|Thriller
+215,Sholay (1975),Action|Adventure|Comedy
+216,1920: Horrors of the Heart (2023),Drama|Horror
+217,Section 375 (2019),Crime|Drama|Mystery
+218,Shiddat (2021),Romance
+219,Jalpari: The Desert Mermaid (2012),Drama|Children|Mystery
+220,The Girl on the Train (2021),Crime|Drama|Mystery
+221,Piku (2015),Comedy|Drama
+222,Kennedy (2023),Action|Crime|Drama
+223,Takht,Action|Drama
+224,Company (2002),Action|Crime|Drama
+225,Kahaani (2012),Mystery|Thriller
+226,Dil Se.. (1998),Drama|Romance
+227,Laapataa Ladies (2023),Comedy|Drama
+228,Goodbye (2022),Comedy|Drama|Children
+229,Uri: The Surgical Strike (2019),Action|Drama
+230,Sooryavanshi (2021),Action|Crime|Thriller
+231,Highway (2014),Crime|Drama|Romance
+232,Tamasha (2015),Comedy|Drama|Romance
+233,Operation Mayfair (2023),Crime|Thriller
+234,Agneepath (2012),Action|Crime|Drama
+235,Lootera (2013),Drama|Romance
+236,Dostana (2008),Comedy|Drama|Romance
+237,Dream Girl (2019),Comedy|Romance
+238,Chandigarh Kare Aashiqui (2021),Comedy|Crime|Drama
+239,Dhoom:3 (2013),Action|Crime|Drama
+240,U Turn (2023),Crime|Drama|Horror
+241,Haseen Dillruba (2021),Crime|Drama|Mystery
+242,Blurr (2022),Drama|Horror|Thriller
+243,Shamshera (2022),Action|Adventure|Drama
+244,Bareilly Ki Barfi (2017),Comedy|Romance
+245,Thar (2022),Action|Crime|Drama
+246,Bade Miyan Chote Miyan (2024),Action|Comedy|Thriller
+247,Uunchai (2022),Adventure|Drama
+248,No Smoking (2007),Drama|Horror|Mystery
+249,Dobaaraa (2022),Drama|Fantasy|Mystery
+250,Bulbbul (2020),Drama|Horror|Mystery
+251,Kapoor & Sons (2016),Comedy|Drama|Children
+252,The Crew (2024),Comedy|Drama
+253,The Archies (2023),Comedy|Drama|Musical
+254,Mumbaikar (2023),Action|Drama|Thriller
+255,Yodha (2023),Action|Drama|Thriller
+256,Jalsa (2022),Drama|Thriller
+257,Game Changer (2024),Action|Drama|Thriller
+258,Gulaal (2009),Crime|Drama|Thriller
+259,Raid (2018),Action|Crime|Drama
+260,Black Friday (2004),Action|Crime|Drama
+261,The Sky Is Pink (2019),Drama|Romance
+262,Student of the Year (2012),Comedy|Drama|Musical
+263,Jodhaa Akbar (2008),Action|Drama
+264,Jersey (2022),Drama
+265,Gehraiyaan (2022),Drama|Romance
+266,Queen (2013),Adventure|Comedy|Drama
+267,Dabangg 3 (2019),Action|Comedy|Crime
+268,Darr (1993),Action|Drama|Romance
+269,Ala Vaikunthapurramuloo (2020),Action|Comedy|Drama
+270,Kolai (2023),Crime|Drama|Mystery
+271,Dhoom (2004),Action|Crime|Drama
+272,Super 30 (2019),Drama
+273,A Death in the Gunj (2016),Drama|Thriller
+274,Dhoom:2 (2006),Action|Crime|Thriller
+275,Kaabil (2017),Action|Crime|Drama
+276,Shootout at Byculla (2024),Thriller
+277,Dum Laga Ke Haisha (2015),Comedy|Drama|Romance
+278,Fukrey Returns (2017),Comedy
+279,Ek Villain (2014),Action|Crime|Drama
+280,Kick (2014),Action|Comedy|Crime
+281,Shaitan (2011),Action|Crime|Drama
+282,Raksha Bandhan (2022),Comedy|Drama|Children
+283,2 (2018),Action|Sci-Fi|Thriller
+284,Cuttputlli (2022),Crime|Drama|Mystery
+285,Housefull 5 (2024),Comedy|Drama
+286,Kabhi Haan Kabhi Naa (1994),Comedy|Drama|Musical
+287,Pyaar Ka Punchnama (2011),Comedy|Drama|Romance
+288,Billu (2009),Comedy|Drama
+289,Jaane Tu... Ya Jaane Na (2008),Comedy|Drama|Romance
+290,Dil Bechara (2020),Comedy|Drama|Romance
+291,Hera Pheri (2000),Action|Comedy|Crime
+292,Bhool Bhulaiyaa (2007),Comedy|Horror|Mystery
+293,Aashiqui 2 (2013),Drama|Musical
+294,Kurbaan (2009),Action|Crime|Drama
+295,Don 3: The Final Chapter (2025),Action|Thriller
+296,Zid (2014),Crime|Romance|Thriller
+297,Ajeeb Daastaans (2021),Drama|Romance
+298,Simmba (2018),Action|Crime|Drama
+299,The Raid,Action|Crime|Thriller
+300,Dabangg (2010),Action|Comedy|Crime
+301,Waltair Veerayya (2023),Action|Drama
+302,Jogira Sara Ra Ra (2023),Comedy|Drama|Children
+303,Checkmate (2023),Action|Comedy
+304,Krrish (2006),Action|Adventure|Sci-Fi
+305,Baadshah (1999),Action|Comedy|Crime
+306,Udaan (2010),Drama
+307,Water (2005),Drama
+308,Guzaarish (2010),Drama|Romance
+309,Koi... Mil Gaya (2003),Action|Drama|Romance
+310,Dil To Pagal Hai (1997),Comedy|Drama|Musical
+311,Table No.21 (2013),Adventure|Drama|Thriller
+312,Murder 3 (2013),Drama|Mystery|Thriller
+313,Taish (2020),Action|Thriller
+314,Secret Superstar (2017),Drama|Musical
+315,Dhaakad (2022),Action|Thriller
+316,Sarkar (2005),Action|Crime|Drama
+317,Chandu Champion (2024),Drama
+318,Major (2022),Action|Drama
+319,Doctor G (2022),Comedy|Drama
+320,Viceroy's House (2017),Drama
+321,M.S. Dhoni: The Untold Story (2016),Drama
+322,Singham (2011),Action|Crime|Drama
+323,Bhaag Milkha Bhaag (2013),Drama
+324,All Ladies Do It (2020),Drama|Thriller
+325,Bhavesh Joshi Superhero (2018),Action|Crime|Drama
+326,Desi Boyz (2011),Comedy|Drama|Romance
+327,Pataakha (2018),Action|Comedy|Drama
+328,7 Khoon Maaf (2011),Comedy|Drama|Mystery
+329,Angrezi Medium (2020),Comedy|Drama
+330,Janaki Jaane (2023),Drama|Children
+331,Shahid (2012),Drama
+332,B.A. Pass (2012),Crime|Drama|Thriller
+333,Radhe (2021),Action|Crime|Thriller
+334,Liger (2022),Action|Drama|Romance
+335,Kamasutra 3D (2013),Drama|Romance
+336,Untitled Vikas Bahl/Jio Studios Project (2024),Horror|Thriller
+337,Cocktail (2012),Comedy|Drama|Romance
+338,Jewel Thief (1967),Crime|Drama|Musical
+339,Deewana (1992),Action|Comedy|Drama
+340,Bhagam Bhag (2006),Comedy|Drama|Mystery
+341,Newton (2017),Comedy|Drama
+342,Made in China (2019),Comedy|Drama
+343,Kai po che! (2013),Drama
+344,Babumoshai Bandookbaaz (2017),Action|Comedy|Crime
+345,Humpty Sharma Ki Dulhania (2014),Comedy|Drama|Romance
+346,Chatrapathi (2023),Action|Drama
+347,Kaminey (2009),Action|Crime|Drama
+348,Karthik Calling Karthik (2010),Drama|Mystery|Romance
+349,Ramayana: The Legend of Prince Rama (1993),Animation|Action|Adventure|Children
+350,Trapped (2016),Drama|Thriller
+351,Qarib Qarib Singlle (2017),Comedy|Romance
+352,Baaghi 3 (2020),Action|Adventure|Thriller
+353,Darbar (2020),Action|Crime|Thriller
+354,Bhool Bhulaiyaa 2 (2022),Comedy|Drama|Horror
+355,Udta Punjab (2016),Action|Crime|Drama
+356,Agra (2023),Drama
+357,Notebook (2019),Drama|Romance
+358,Tara vs Bilal (2022),Comedy|Drama|Romance
+359,Matru Ki Bijlee Ka Mandola (2013),Comedy|Drama
+360,Garam Masala (2005),Comedy|Romance
+361,Ek Villain Returns (2022),Action|Crime|Romance
+362,Kambakkht Ishq (2009),Action|Comedy|Romance
+363,Metro.... In Dino (2024),Drama|Romance
+364,Go Goa Gone (2013),Action|Adventure|Comedy
+365,Jo Jeeta Wohi Sikandar (1992),Comedy|Drama|Romance
+366,Dhamaka (2021),Action|Crime|Drama
+367,Cobalt Blue (2022),Drama|Romance
+368,Manorama: Six Feet Under (2007),Crime|Drama|Mystery
+369,Antim: The Final Truth (2021),Action|Crime|Drama
+370,Welcome Back (2015),Action|Comedy|Crime
+371,Good Newwz (2019),Comedy|Drama
+372,New York (2009),Crime|Drama|Thriller
+373,Hum (1991),Action|Comedy|Drama
+374,Detective Byomkesh Bakshy! (2015),Action|Crime|Drama
+375,Ram Setu (2022),Action|Adventure
+376,Devara (2024),Action|Drama|Thriller
+377,Life in a Metro (2007),Comedy|Drama|Musical
+378,Aligarh (2015),Drama
+379,Pink (2016),Crime|Drama|Thriller
+380,Anek (2022),Action|Drama
+381,Befikre (2016),Comedy|Drama|Romance
+382,Sonu Ke Titu Ki Sweety (2018),Comedy|Romance
+383,Baghban (2003),Drama|Romance
+384,Kanjoos Makhichoos (2023),Comedy|Drama|Children
+385,Guide (1965),Drama|Musical|Romance
+386,Tubelight (2017),Drama|War
+387,Anbe Sivam (2003),Adventure|Comedy|Drama
+388,Hum Tum (2004),Comedy|Drama|Romance
+389,Special Chabbis (2013),Crime|Drama|Thriller
+390,Dasvi (2022),Comedy|Drama
+391,Mrs Undercover (2023),Action|Comedy|Thriller
+392,Vicky Donor (2012),Comedy|Romance
+393,Bodyguard (2011),Action|Comedy|Drama
+394,Kahaani 2 (2016),Mystery|Thriller
+395,Malaikottai Vaaliban (2024),Action|Drama|Fantasy
+396,Bellbottom (2021),Action|Thriller
+397,Kaagaz (2021),Drama|Comedy
+398,Salaam Bombay! (1988),Crime|Drama
+399,Meri Pyaari Bindu (2017),Comedy|Drama|Romance
+400,Namastey London (2007),Comedy|Drama|Romance
+401,Welcome (2007),Comedy|Crime|Drama
+402,Baazigar (1993),Crime|Drama|Musical
+403,Main Tera Hero (2014),Action|Comedy|Romance
+404,Singham Returns (2014),Action|Crime|Drama
+405,Jagga Jasoos (2017),Action|Adventure|Comedy
+406,India Lockdown (2022),Adventure|Drama
+407,Parched (2015),Drama
+408,Sam Bahadur (2023),Drama|War
+409,Hera Pheri 3,(no genres listed)
+410,Malang - Unleash the Madness (2020),Action|Crime|Drama
+411,Aladin (2009),Action|Adventure|Comedy
+412,Madras Cafe (2013),Action|Drama|Thriller
+413,Race 3 (2018),Action|Crime|Thriller
+414,Mrs. Serial Killer (2020),Crime|Drama|Thriller
+415,Any Body Can Dance 2 (2015),Drama|Musical
+416,Manmarziyaan (2018),Comedy|Drama|Romance
+417,Tere Naam (2003),Action|Drama|Romance
+418,Tiku weds Sheru (2023),Comedy|Drama|Romance
+419,Housefull 3 (2016),Action|Comedy|Romance
+420,Toilet - Ek Prem Katha (2017),Comedy|Drama|Romance
+421,Aitraaz (2004),Drama|Romance|Thriller
+422,2 States (2014),Comedy|Drama|Romance
+423,Sadak (1991),Action|Drama|Romance
+424,Bob Biswas (2021),Crime|Drama|Thriller
+425,Johny Mera Naam (1970),Action|Drama|Musical
+426,Ladies vs. Ricky Bahl (2011),Comedy|Crime|Drama
+427,Johnny Gaddaar (2007),Crime|Drama|Mystery
+428,Thunivu (2023),Action|Crime|Thriller
+429,Photograph (2019),Drama|Romance
+430,Tashan (2008),Action|Comedy|Drama
+431,Taal (1999),Drama|Musical|Romance
+432,Krrish 4,Action|Sci-Fi|Thriller
+433,Hum Do Hamare Do (2021),Comedy
+434,Saaho (2019),Action|Thriller
+435,We Are Family (2010),Comedy|Drama|Children
+436,Housefull 2 (2012),Action|Comedy|Drama
+437,Baby (2015),Action|Crime|Thriller
+438,Code Name: Tiranga (2022),Action|Drama|Thriller
+439,Mujhse Shaadi Karogi (2004),Comedy|Romance
+440,Ajnabee (2001),Action|Crime|Drama
+441,Bachna Ae Haseeno (2008),Comedy|Drama|Romance
+442,Chef (2017),Comedy|Drama|Children
+443,Dev.D (2009),Comedy|Drama|Romance
+444,Spy (2023),Action|Thriller
+445,Mission Kashmir (2000),Action|Drama|Thriller
+446,Pyaasa (1957),Drama|Musical|Romance
+447,Jee Le Zaraa,Drama
+448,Jayeshbhai Jordaar (2022),Comedy|Drama
+449,Pichaikkaran 2 (2023),Action|Drama|Sci-Fi
+450,Hazaaron Khwaishein Aisi (2003),Drama
+451,The Lovers (2015),Action|Adventure|Romance
+452,The Big Bull (2021),Drama|Crime
+453,Heropanti 2 (2022),Action|Comedy|Crime
+454,Te3n (2016),Crime|Drama|Mystery
+455,Hungama 2 (2021),Comedy|Drama|Romance
+456,Indian 2 (2024),Action|Drama|Thriller
+457,Boom (2003),Crime|Thriller
+458,Karan Arjun (1995),Action|Drama|Fantasy
+459,Shaandaar (2015),Comedy|Drama|Romance
+460,Samrat Prithviraj (2022),Action|Drama
+461,Bharat (2019),Action|Comedy|Drama
+462,Laxmii (2020),Action|Comedy|Horror
+463,Aazam (2023),Crime|Drama|Mystery
+464,Serious Men (2020),Comedy|Drama
+465,Ishq (1997),Action|Comedy|Drama
+466,JGM (JanaGanaMana) (2023),Action|Drama
+467,Josh (2000),Action|Drama|Musical
+468,Footfairy (2020),Crime|Thriller
+469,C.I.D. (1956),Action|Crime|Musical
+470,Zinda (2006),Action|Drama|Mystery
+471,Non Stop Dhamaal (2023),Comedy
+472,Ishq-e-nadaan (2023),Drama|Romance
+473,Fitoor (2016),Drama|Romance
+474,Andaz Apna Apna (1994),Action|Comedy|Romance
+475,Jawaani Jaaneman (2020),Comedy|Drama
+476,Batla House (2019),Action|Crime|Drama
+477,Gabbar Is Back (2015),Action|Crime|Drama
+478,Partner (2007),Comedy|Drama|Romance
+479,Awara Paagal Deewana (2002),Action|Comedy|Crime
+480,A Flying Jatt (2016),Action|Adventure|Comedy
+481,Rangeela (1995),Comedy|Drama|Musical
+482,Jogi (2022),Drama|Thriller
+483,Tadka (2022),Comedy|Drama|Romance
+484,Paheli (2005),Comedy|Drama|Fantasy
+485,Duplicate (1998),Action|Comedy|Crime
+486,Radhe Shyam (2022),Drama|Romance
+487,English Vinglish (2012),Comedy|Drama|Children
+488,Koi Jaane Na (2021),Thriller
+489,72 Hoorain (2019),Crime|Drama|Thriller
+490,Rustom (2016),Crime|Drama|Thriller
+491,Chup Chup Ke (2006),Comedy|Drama|Romance
+492,Hate Story (2012),Drama|Thriller
+493,Tees Maar Khan (2010),Comedy|Crime
+494,Mard Ko Dard Nahin Hota (2018),Action|Comedy|Drama
+495,Hum Dil De Chuke Sanam (1999),Comedy|Drama|Musical
+496,Sadak 2 (2020),Action|Drama
+497,Black (2005),Drama
+498,13B: Fear Has a New Address (2009),Drama|Horror|Mystery
+499,Fanaa (2006),Action|Drama|Romance
+500,Yaariyan 2 (2023),Comedy|Drama|Musical
+501,War 2,Action|Adventure|Crime
+502,Yuva (2004),Action|Drama|Thriller
+503,Sangharsh (1999),Action|Crime|Drama
+504,Wanted (2009),Action|Crime|Thriller
+505,Motichoor Chaknachoor (2019),Comedy|Romance
+506,Paan Singh Tomar (2012),Action|Drama|Crime
+507,Sharmaji Namkeen (2022),Comedy|Drama|Children
+508,Music School (2023),Drama|Musical
+509,Satyameva Jayate 2 (2021),Action|Crime|Drama
+510,Laal Kaptaan (2019),Action|Adventure|Drama
+511,Manto (2018),Drama
+512,Khakee (2004),Action|Crime|Drama
+513,Yeh Saali Aashiqui (2019),Drama|Romance|Thriller
+514,Lakshya (2004),Action|Drama|Romance
+515,Badhaai ho (2018),Comedy|Drama
+516,Trishna (2011),Drama
+517,Guilty (2020),Drama|Thriller
+518,Thank God (2022),Comedy|Fantasy
+519,Ghayal (1990),Action|Crime|Drama
+520,Baaghi (2016),Action|Romance|Thriller
+521,Bombay Velvet (2015),Action|Crime|Drama
+522,Once Upon a Time in Mumbai Dobaara! (2013),Action|Crime|Drama
+523,Shaadi Mein Zaroor Aana (2017),Drama|Romance
+524,Lage Raho Munna Bhai (2006),Comedy|Drama|Romance
+525,Luka Chuppi (2019),Comedy|Romance
+526,Shor in the City (2010),Crime|Drama
+527,Tanhaji: The Unsung Warrior (2020),Action|Drama
+528,Neymar (2023),Comedy|Children
+529,AK vs AK (2020),Action|Comedy|Crime
+530,Sarbjit (2016),Drama
+531,Connect (2022),Thriller
+532,Welcome Home (2020),Crime|Drama|Horror
+533,Padman (2018),Comedy|Drama
+534,Laththi (2022),Action|Crime|Drama
+535,Raman Raghav 2.0 (2016),Crime|Drama|Thriller
+536,Dhobi Ghat (2010),Drama
+537,Ardh Satya (1983),Crime|Drama
+538,Jersey (2019),Drama
+539,Bala (2019),Comedy
+540,Guru (2007),Drama
+541,Stolen (2023),Drama|Thriller
+542,Deewane Huye Paagal (2005),Action|Comedy|Drama
+543,Nail Polish (2021),Drama
+544,Jaadugar (2022),Comedy|Drama|Fantasy
+545,Jism 2 (2012),Drama|Romance|Thriller
+546,Three of Us (2022),(no genres listed)
+547,Bhootnath (2008),Comedy|Drama|Children
+548,Ascharyachakit! (2018),Drama|Romance
+549,Chillar Party (2011),Comedy|Drama|Children
+550,Chakda Xpress (2023),Drama
+551,I Hate Luv Storys (2010),Comedy|Drama|Romance
+552,Wazir (2016),Action|Crime|Drama
+553,Singh Is Kinng (2008),Action|Comedy|Crime
+554,Holiday (2014),Action|Crime|Thriller
+555,#Home (2021),Drama
+556,Attack (2022),Action|Sci-Fi|Thriller
+557,Janhit Mein Jaari (2022),Comedy|Drama|Romance
+558,Khiladiyon Ka Khiladi (1996),Action|Crime|Drama
+559,Vinaya Vidheya Rama (2019),Action|Drama
+560,Hate Story IV (2018),Crime|Drama|Thriller
+561,Rocky Handsome (2016),Action|Crime|Drama
+562,Dhamaal (2007),Action|Adventure|Comedy
+563,Pyaar Ka Punchnama 2 (2015),Comedy|Drama|Romance
+564,Untitled Blumhouse Productions Film (2024),(no genres listed)
+565,Chachi 420 (1997),Comedy|Drama|Children
+566,Chalte Chalte (2003),Drama|Romance
+567,Sanam Teri Kasam (2016),Drama|Musical|Romance
+568,Bunty Aur Babli (2005),Comedy|Crime|Drama
+569,Agent Vinod (2012),Action|Adventure|Thriller
+570,Airlift (2016),Action|Drama
+571,Judwaa 2 (2017),Action|Comedy
+572,Untitled Aamir khan/Rajkumar Hirani movie,Drama
+573,Paanch (2003),Crime|Thriller
+574,Rowdy Rathore (2012),Action|Comedy|Crime
+575,Sanak (2021),Action|Thriller
+576,Visfot (2023),Crime|Thriller
+577,Skater Girl (2021),Drama|Children
+578,Raincoat (2004),Drama|Romance
+579,Murder (2004),Drama|Romance|Thriller
+580,Mujhse Dosti Karoge! (2002),Comedy|Drama|Children
+581,Veerappan (2016),Action|Drama|Crime
+582,Madly (2016),Drama|Romance
+583,One Friday Night (2023),Crime|Drama
+584,Khuda Haafiz (2020),Action|Crime|Drama
+585,Mohenjo Daro (2016),Action|Adventure|Drama
+586,Atrangi Re (2021),Comedy|Drama|Fantasy
+587,Aakrosh (2010),Action|Crime|Drama
+588,Agneepath (1990),Action|Crime|Drama
+589,Yes Boss (1997),Comedy|Drama|Musical
+590,Chhapaak (2020),Drama
+591,Anjaana Anjaani (2010),Comedy|Drama|Musical
+592,No One Killed Jessica (2011),Drama|Crime
+593,Gurgaon (2017),Crime|Thriller
+594,Lift (2021),Drama|Horror|Mystery
+595,D-Day (2013),Action|Thriller
+596,Khuda Haafiz Chapter II: Agni Pariksha (2022),Action|Crime|Drama
+597,UI,(no genres listed)
+598,Mr. India (1987),Action|Comedy|Drama
+599,The Body (2019),Mystery|Thriller
+600,Mukkabaaz (2017),Action|Drama
+601,Kaagaz Ke Phool (1959),Drama|Romance
+602,Shahenshah (1988),Action|Adventure
+603,Gali Guleiyan (2017),Drama|Thriller
+604,Phir Hera Pheri (2006),Comedy|Crime
+605,Zwigato (2022),Drama
+606,Hindi Medium (2017),Comedy|Drama
+607,1920 (2008),Horror|Mystery|Romance
+608,Love Aaj Kal (2020),Drama|Romance
+609,Bheeshma (2020),Action|Comedy|Romance
+610,Chopsticks (2019),Comedy|Drama
+611,Pagglait (2021),Comedy|Drama
+612,Heroine (2012),Drama
+613,Shanghai (2012),Crime|Drama|Mystery
+614,Naam Shabana (2017),Action|Drama|Thriller
+615,Singh Is Bliing (2015),Action|Comedy|Romance
+616,Beautiful (2020),Drama
+617,Filmistaan (2012),Comedy
+618,Hum Tumhare Hain Sanam (2002),Comedy|Drama|Romance
+619,Naseeb (1981),Action|Musical|Romance
+620,Akira (2016),Action|Thriller
+621,Sonchiriya (2019),Action|Crime|Drama
+622,The Other End of the Line (2007),Comedy|Drama|Children
+623,Kesari (2019),Action|Drama
+624,Jaane Bhi Do Yaaro (1983),Comedy|Crime|Drama
+625,Nympho: The Lust Story (2020),Drama|Romance|Thriller
+626,San' 75 (Pachattar) (2022),Thriller
+627,Shootout at Wadala (2013),Action|Drama|Crime
+628,Murder 2 (2011),Action|Crime|Drama
+629,Luck by Chance (2009),Drama
+630,Kaho Naa... Pyaar Hai (2000),Action|Musical|Romance
+631,All the Best: Fun Begins (2009),Action|Comedy|Drama
+632,Band Baaja Baaraat (2010),Comedy|Drama|Romance
+633,Baazaar (2018),Crime|Drama|Thriller
+634,Miss Teacher (2016),Romance
+635,Raaz (2002),Drama|Horror|Musical
+636,Nayak: The Real Hero (2001),Action|Drama|Thriller
+637,Race (2008),Action|Crime|Drama
+638,Sergeant (2023),Drama|Thriller
+639,Khosla Ka Ghosla! (2006),Comedy|Crime|Drama
+640,Siya (2022),Crime|Drama
+641,Golmaal 3 (2010),Action|Comedy|Drama
+642,Blackmail (2018),Comedy|Thriller
+643,Don (1978),Action|Crime|Thriller
+644,Baadshaho (2017),Action|Adventure|Thriller
+645,Babli Bouncer (2022),Comedy|Drama
+646,Midnight's Children (2012),Drama
+647,Rahasya (2015),Mystery|Thriller
+648,Love-All (2023),Drama
+649,Sarfarosh (1999),Action|Crime|Drama
+650,Entertainment (2014),Action|Comedy|Drama
+651,Kanguva (2024),Action|Drama|Fantasy
+652,Chehre (2021),Drama|Mystery|Thriller
+653,Good Luck Jerry (2022),Comedy|Crime|Drama
+654,Kaamyaab (2018),Drama
+655,Madhoshi (2004),Musical|Mystery|Drama
+656,Housefull (2010),Comedy|Drama|Romance
+657,Mardaani 2 (2019),Action|Crime|Drama
+658,Toolsidas Junior (2022),Drama|Children
+659,Love Sonia (2018),Drama
+660,Hate Story 3 (2015),Drama|Thriller
+661,Looop Lapeta (2022),Action|Comedy|Crime
+662,Mumbai Saga (2021),Action|Crime
+663,Pardes (1997),Drama|Musical|Romance
+664,Kaante (2002),Action|Crime|Drama
+665,The Hungry (2017),Drama
+666,Kabzaa (2023),Action|Crime|Thriller
+667,Forensic (2022),Crime|Thriller
+668,Shootout at Lokhandwala (2007),Action|Crime|Drama
+669,Double XL (2022),Comedy|Drama
+670,Phone Bhoot (2022),Comedy|Horror
+671,Cadaver (2022),Crime|Drama|Mystery
+672,Bombay Talkies (2013),Drama
+673,Almost Pyaar with DJ Mohabbat (2022),Drama|Musical|Romance
+674,Oh! Baby (2019),Comedy|Drama|Fantasy
+675,Rashmi Rocket (2021),Drama
+676,Pyaar Kiya To Darna Kya (1998),Action|Comedy|Drama
+677,The Tashkent Files (2019),Drama|Mystery|Thriller
+678,Mulk (2018),Drama
+679,Dabangg 2 (2012),Action|Comedy|Crime
+680,Romeo Akbar Walter (2019),Action|Drama|Thriller
+681,DAMaN (2022),Adventure|Drama
+682,Dil Bole Hadippa! (2009),Comedy|Drama|Romance
+683,Buddha in a Traffic Jam (2016),Crime|Thriller
+684,The Purvanchal Files (2023),Action
+685,800 (2023),Drama
+686,Blind (2023),Crime|Drama|Thriller
+687,Love Aaj Kal (2009),Comedy|Drama|Romance
+688,Har Dil Jo Pyar Karega... (2000),Comedy|Drama|Musical
+689,Ankhon Dekhi (2013),Comedy|Drama
+690,Joram (2023),Action|Adventure|Crime
+691,Ardh (2022),Drama|Romance
+692,Khoobsurat (2014),Comedy|Romance
+693,Bachchhan Paandey (2022),Action|Comedy|Crime
+694,Border (1997),Action|Drama
+695,Hichki (2018),Comedy|Drama
+696,Rangoon (2017),Action|Drama
+697,Ujda Chaman (2019),Comedy
+698,Arth (1982),Drama|Romance
+699,Mohra (1994),Action|Drama|Thriller
+700,Untitled Soorarai Pottru remake (2024),Action|Drama
+701,Dishoom (2016),Action|Adventure|Comedy
+702,Aankh Micholi (2023),Comedy|Children
+703,Aashiq Banaya Aapne: Love Takes Over (2005),Drama|Romance|Thriller
+704,Golmaal Returns (2008),Comedy|Crime|Mystery
+705,Kaalakaandi (2018),Comedy|Thriller
+706,Hanuman (2005),Animation|Children
+707,Tariq (2023),Action|Drama|Thriller
+708,Maine Pyar Kiya (1989),Drama|Musical|Romance
+709,Court (2014),Drama
+710,Chhalaang (2020),Comedy|Drama
+711,Street Dancer 3D (2020),Drama|Musical
+712,Jhund (2022),Drama
+713,U-Turn (2018),Crime|Horror|Mystery
+714,Thalaivi (2021),Drama
+715,Hum Saath-Saath Hain (1999),Drama|Musical
+716,Kedarnath (2018),Drama|Romance
+717,Raajneeti (2010),Crime|Drama|Thriller
+718,Mission Mangal (2019),Drama
+719,Maja Ma (2022),Comedy|Drama
+720,Paa (2009),Comedy|Drama
+721,Maachis (1996),Action|Crime|Drama
+722,The Intern,Comedy|Drama|Thriller
+723,Panipat (2019),Action|Drama
+724,One 2 Ka 4 (2001),Action|Crime|Drama
+725,Titli (2014),Action|Crime|Drama
+726,Monsoon Shootout (2013),Action|Crime|Drama
+727,Jolly LLB (2013),Comedy|Crime|Drama
+728,Kaal (2005),Adventure|Horror|Mystery
+729,Hum Aapke Hain Koun..! (1994),Comedy|Drama|Musical
+730,Kadvi Hawa (2017),Drama
+731,Daddy (2017),Action|Drama|Crime
+732,36 China Town (2006),Comedy|Mystery|Thriller
+733,Shool (1999),Action|Crime|Drama
+734,Dharam Sankat Mein (2015),Comedy
+735,Class of 83 (2020),Action|Crime|Drama
+736,Sheran Di Kaum Punjabi (2024),Action|Adventure|Drama
+737,Brothers (2015),Action|Drama
+738,Deewangee (2002),Crime|Drama|Mystery
+739,Madaari (2016),Drama|Thriller
+740,Bawarchi (1972),Comedy|Musical|Drama
+741,Breakaway (2011),Comedy|Drama
+742,Mughal-E-Azam (1960),Drama|Romance|War
+743,A Gentleman (2017),Action|Comedy
+744,Rock On!! (2008),Drama|Musical
+745,Evil Eye (2020),Horror|Mystery|Thriller
+746,Margarita with a Straw (2014),Drama
+747,Rakshak India's Braves (2023),Action|Drama
+748,The Diplomat (2024),Drama|Thriller
+749,Koyla (1997),Action|Drama|Musical
+750,Trimurti (1995),Action|Drama
+751,Thappad (2020),Drama
+752,Joker (2012),Comedy|Children|Sci-Fi
+753,Nazar Andaaz (2022),Comedy|Drama
+754,Gulabo Sitabo (2020),Comedy|Drama
+755,Phobia (2016),Drama|Mystery|Thriller
+756,B.A. Pass 2 (2017),Drama
+757,Commando (2013),Action|Adventure|Thriller
+758,Khal Nayak (1993),Action|Adventure|Crime
+759,Dhan Dhana Dhan Goal (2007),Drama|Thriller
+760,Chocolate: Deep Dark Secrets (2005),Crime|Drama|Mystery
+761,Dolly Kitty Aur Woh Chamakte Sitare (2019),Comedy|Drama
+762,Badrinath Ki Dulhania (2017),Comedy|Drama|Romance
+763,Dial 100 (2021),Action|Thriller
+764,Yalgaar (1992),Action|Drama|Thriller
+765,Kaun Pravin Tambe? (2022),Drama
+766,Toofaan (2021),Action|Drama
+767,Besharam (2013),Action|Comedy|Romance
+768,India's Most Wanted (2019),Action|Adventure|Thriller
+769,Do Bigha Zamin (1953),Drama
+770,Aamir (2008),Action|Crime|Drama
+771,Raju Ban Gaya Gentleman (1992),Comedy|Musical|Romance
+772,Titu Ambani (2023),Drama
+773,Judgementall Hai Kya (2019),Comedy|Drama|Mystery
+774,Saudagar (1973),Drama|Children
+775,Khiladi 786 (2012),Action|Comedy|Romance
+776,Hurdang (2022),Drama|Romance
+777,Plan A Plan B (2022),Comedy|Romance
+778,Pari (2018),Fantasy|Horror|Mystery
+779,Thank You (2011),Comedy
+780,Firrkie (2023),Thriller
+781,1920: Evil Returns (2012),Drama|Horror|Romance
+782,Bol Bachchan (2012),Action|Comedy
+783,Hisss (2010),Comedy|Drama|Horror
+784,Guthlee Ladoo (2023),Drama
+785,Haan Maine Bhi Pyaar Kiya (2002),Drama|Musical|Romance
+786,Soldier (1998),Action|Drama|Musical
+787,Phool Aur Patthar (1966),Action|Drama|Romance
+788,The Xpose (2014),Drama|Mystery|Romance
+789,Aashiq (2001),Action|Drama|Romance
+790,Pal Pal Dil Ke Paas (2019),Action|Drama|Romance
+791,Kyaa Super Kool Hain Hum (2012),Comedy
+792,Rocket Singh: Salesman of the Year (2009),Comedy|Drama
+793,Gandharva jr.,Drama|Fantasy
+794,Tere Bin Laden (2010),Comedy|Drama
+795,The Underbug (2023),Horror
+796,Bandit Queen (1994),Action|Drama|Crime
+797,Maidaan,Drama
+798,Blue (2009),Action|Adventure|Mystery
+799,Chameli (2003),Drama
+800,Khushi (2003),Action|Comedy|Drama
+801,Mausam (2011),Drama|Romance|War
+802,Fiza (2000),Crime|Drama|Romance
+803,Mother India (1957),Action|Comedy|Drama
+804,Hungama (2003),Comedy|Drama|Romance
+805,Yeh Saali Zindagi (2011),Crime|Drama|Thriller
+806,Mr. & Mrs. '55 (1955),Comedy|Musical|Romance
+807,Waqt (1965),Drama|Romance
+808,Raabta (2017),Action|Drama|Fantasy
+809,Untitled Shahid Kapoor/Kriti Sanon Film (2023),Drama|Romance
+810,Neerja (2016),Drama|Thriller
+811,Qayamat: City Under Threat (2003),Action|Drama|Romance
+812,Raju Chacha (2000),Action|Comedy|Drama
+813,Gupt: The Hidden Truth (1997),Action|Crime|Mystery
+814,Vivah (2006),Drama|Musical|Romance
+815,Bhoot Police (2021),Comedy|Horror
+816,Operation Romeo (2022),Drama|Mystery
+817,1942: A Love Story (1994),Action|Drama
+818,Aksar 2 (2017),Crime|Drama|Mystery
+819,Duniya (1984),Action|Drama
+820,Ferrari Ki Sawaari (2012),Comedy|Drama|Children
+821,Mr Lele,Comedy
+822,Untitled (2024),Action
+823,Shah Behram (1955),Fantasy
+824,OK Jaanu (2017),Drama|Romance
+825,Ki & Ka (2016),Comedy|Romance
+826,Shree 420 (1955),Comedy|Crime|Drama
+827,102 Not Out (2018),Comedy|Drama
+828,Matrubhoomi: A Nation Without Women (2003),Drama
+829,Ginny Weds Sunny (2020),Comedy|Drama|Romance
+830,Woh Kaun Thi? (1964),Drama|Mystery|Romance
+831,Action Replayy (2010),Comedy|Romance|Sci-Fi
+832,Yodha (1991),Action|Drama
+833,Khatta Meetha (2010),Comedy|Crime|Drama
+834,Shakti (1982),Action|Crime|Drama
+835,Dushmani: A Violent Love Story (1995),Action|Drama|Romance
+836,Humraaz (2002),Romance|Thriller
+837,Jhankaar Beats (2003),Comedy|Musical|Romance
+838,Khiladi (1992),Action|Musical|Mystery
+839,Baiju Bawra,Drama
+840,Sahib Bibi Aur Ghulam (1962),Drama|Musical
+841,Tezaab (1988),Action|Drama|Romance
+842,Yamini (2002),Crime|Drama|Thriller
+843,Bangistan (2015),Comedy|Drama
+844,Hawa (2003),Drama|Horror|Thriller
+845,Zubeidaa (2001),Drama
+846,Singh Saab the Great (2013),Action|Drama
+847,Garbage (2018),Drama|Thriller
+848,Jai Maa Vaishno Devi (1994),Drama
+849,Koochie Koochie Hota Hai (2021),Animation|Children|Musical
+850,One Two Three (2008),Comedy|Crime
+851,Raaz: The Mystery Continues (2009),Horror|Mystery|Romance
+852,"LSD: Love, Sex Aur Dhokha (2010)",Comedy|Crime|Drama
+853,Love Hostel (2022),Action|Crime|Romance
+854,Gunday (2014),Action|Drama|Musical
+855,Michael (2023),Action|Crime|Drama
+856,Behen Hogi Teri (2017),Comedy
+857,Pogaru (2021),Action
+858,Motu Patlu Kung Fu Kings Returns (2021),Animation|Children
+859,Sorry Karma Returns (2022),Crime|Mystery|Thriller
+860,Mary Kom (2014),Action|Drama
+861,Force 2 (2016),Action|Adventure|Thriller
+862,Aar Ya Paar (1997),Thriller
+863,Loveyatri (2018),Comedy|Drama|Musical
+864,Dharam Veer (1977),Action|Adventure|Comedy
+865,Mujrim (1989),Action|Crime
+866,Shaadi Ke Side Effects (2014),Comedy|Romance
+867,Mera Naam Joker (1970),Comedy|Drama
+868,Roohi (2021),Comedy|Horror
+869,Cantt Road: The Beginning (2023),Crime
+870,Patiala House (2011),Drama
+871,Shakespeare-Wallah (1965),Drama|Romance
+872,Kho Gaye Hum Kahan (2023),Drama
+873,Pippa (2023),Action|Drama
+874,Raanjhanaa (2013),Drama|Romance
+875,Lakadbaggha (2023),Action|Comedy|Crime
+876,Kavacham (2018),Action|Crime|Thriller
+877,Janmabhoomi (2024),Drama
+878,Munnibai (1999),Action|Crime|Drama
+879,Yaarana (1981),Action|Comedy|Drama
+880,Aks (2001),Action|Crime|Horror
+881,Khan kluay (2006),Animation|Adventure|Children
+882,Hunterrr (2015),Comedy|Romance
+883,Lost (2022),Drama|Thriller
+884,The Ghazi Attack (2017),Action|Thriller|War
+885,99 (2009),Comedy|Crime|Drama
+886,Tujhe Meri Kasam (2003),Romance
+887,Baasha (1995),Action|Crime|Drama
+888,Gangster (2006),Action|Crime|Drama
+889,Commando 3 (2019),Action|Adventure|Thriller
+890,The Lift Boy (2019),Comedy|Drama
+891,Main Aur Charles (2015),Action|Drama|Crime
+892,Gangaa Jamunaa Saraswathi (1988),Action|Drama|Romance
+893,Salaam-E-Ishq (2007),Comedy|Drama|Musical
+894,Chhal (2002),Action|Crime|Drama
+895,Maine Pyaar Kyun Kiya (2005),Comedy|Drama|Romance
+896,Dil Kya Kare (1999),Drama|Musical|Romance
+897,Gori Tere Pyaar Mein! (2013),Comedy|Drama|Romance
+898,Aankhen (1993),Action|Comedy|Crime
+899,Theeran Adhigaaram Ondru (2017),Action|Crime|Thriller
+900,Ek Ladki Ko Dekha Toh Aisa Laga (2019),Comedy|Crime|Drama
+901,Chandni Chowk to China (2009),Action|Adventure|Comedy
+902,Hi Nanna (2023),Drama|Children|Romance
+903,Anand (1971),Drama|Musical
+904,Ghar Dwaar (1985),Drama
+905,Kis Kisko Pyaar Karoon (2015),Comedy|Romance
+906,Khushboo (1975),Drama|Romance
+907,Chalaak (2023),Thriller
+908,Stanley Ka Dabba (2011),Comedy|Drama|Children
+909,Ghost Story - An Abstract Film (2020),Horror
+910,Sandeep Aur Pinky Faraar (2021),Comedy|Crime|Drama
+911,Rascals (2011),Action|Comedy|Crime
+912,Aiyaary (2018),Action|Drama|Thriller
+913,Veerana (1988),Action|Drama|Horror
+914,Wake Up Sid (2009),Comedy|Drama|Romance
+915,Keedaa Cola (2023),Comedy|Crime
+916,Daawat-e-Ishq (2014),Comedy|Drama|Romance
+917,Aiyyaa (2012),Comedy|Romance
+918,Toofan (1989),Action|Crime|Drama
+919,Zanjeer (1973),Action|Crime|Drama
+920,Qurbani (1980),Action|Crime|Drama
+921,Dr. Cabbie (2014),Comedy
+922,Mahanati (2018),Drama
+923,Saudagar (1991),Action|Drama|Romance
+924,Har Har Mahadev (2022),Action|Drama|War
+925,Zapatlela (1993),Comedy|Drama|Horror
+926,Judwaa (1997),Action|Comedy|Drama
+927,That Girl in Yellow Boots (2010),Crime|Drama|Mystery
+928,The Delhi Files,Crime|Drama|Thriller
+929,Jolly LLB 2 (2017),Comedy|Crime|Drama
+930,Gold (2018),Drama
+931,Bichhoo (2000),Action|Crime|Drama
+932,Kaali Khuhi (2020),Drama|Horror|Mystery
+933,Jigar (1992),Action|Drama|Romance
+934,Aatmapamphlet (2023),Comedy|Drama
+935,Amar Prem (1972),Drama|Musical|Romance
+936,Awarapan (2007),Action|Crime|Drama
+937,Hate Story 2 (2014),Drama|Thriller
+938,Brahmastra 2 (2026),Action|Adventure|Fantasy
+939,Musafir (2004),Action|Crime|Drama
+940,Possessed Love (2021),Drama|Horror|Romance
+941,Prem Ratan Dhan Payo (2015),Action|Drama|Musical
+942,Nadiya Ke Paar (1982),Drama|Romance
+943,David (2013),Action|Crime|Drama
+944,Roar (2014),Action|Adventure|Sci-Fi
+945,Aarakshan (2011),Drama|Thriller
+946,Angithee (2021),Drama
+947,Dharmatma (1975),Action|Romance|Thriller
+948,Meenakshi Sundareshwar (2021),Comedy|Romance
+949,De Dana Dan (2009),Action|Comedy|Crime
+950,Mastram (2013),Drama
+951,Ek Thi Daayan (2013),Horror|Romance|Thriller
+952,Le Halua Le (2012),Comedy|Drama|Romance
+953,Virasat (1997),Action|Drama|Musical
+954,Axone (2019),Comedy|Drama
+955,Coolie No. 1 (1995),Action|Comedy|Romance
+956,Maya (1993),Drama|Mystery|Romance
+957,Mardaani (2014),Action|Crime|Drama
+958,Kalyug (2005),Action|Crime|Drama
+959,Yeh Shaadi Nahi Ho Sakti (2023),Comedy
+960,Hawayein (2003),Drama|Romance
+961,Ek Jaan Hain Hum (1983),Children|Romance
+962,420 IPC (2021),Crime
+963,Baaghi 2 (2018),Action|Crime|Drama
+964,Ragini MMS 2 (2014),Horror
+965,Bade Miyan Chote Miyan (1998),Action|Comedy|Musical
+966,The Blue Umbrella (2005),Comedy|Drama|Children
+967,Operation Valentine (2023),Action|Drama|Thriller
+968,Betaab (1983),Children|Romance
+969,Race 2 (2013),Action|Crime|Thriller
+970,Monsoon (2015),Comedy|Drama|Romance
+971,Ek Main Aur Ekk Tu (2012),Comedy|Drama|Romance
+972,Refugee (2000),Drama|Musical|Romance
+973,Crack,Drama
+974,Marjaavaan (2019),Action|Drama|Romance
+975,Bramayugam (2024),Horror|Thriller
+976,Ek Paheli Leela (2015),Mystery|Romance|Thriller
+977,Prince (2010),Action|Sci-Fi|Thriller
+978,Mehbooba (1976),Drama|Romance
+979,My Friend Ganesha 4 (2020),Comedy
+980,Luck (2009),Action|Adventure|Drama
+981,Phir Bhi Dil Hai Hindustani (2000),Comedy|Drama|Musical
+982,Grand Masti (2013),Comedy|Drama|Thriller
+983,Seeta Aur Geeta (1972),Adventure|Comedy|Drama
+984,Muthu (1995),Action|Comedy|Drama
+985,Coat (2023),Drama|Children
+986,Footpath (2003),Action|Crime|Drama
+987,Julie 2 (2017),Drama|Romance|Thriller
+988,Khuda Gawah (1992),Action|Adventure|Drama
+989,Laaga Chunari Mein Daag: Journey of a Woman (2007),Drama|Children|Romance
+990,Helicopter Eela (2018),Drama
+991,Jagir (1984),Action|Adventure|Drama
+992,Humko Deewana Kar Gaye (2006),Drama|Romance
+993,Ek Hasina Thi (2004),Crime|Drama|Mystery
+994,Soorma (2018),Drama
+995,Nikamma (2022),Action|Comedy|Drama
+996,Do Lafzon Ki Kahani (2016),Action|Drama|Romance
+997,Phata Poster Nikhla Hero (2013),Action|Comedy|Crime
+998,Manikarnika: The Queen of Jhansi (2019),Action|Drama
+999,August 16 1947 (2023),Action|Drama
+1000,Nasha (2013),Drama|Thriller
+1001,Tum Bin 2 (2016),Drama|Romance
+1002,Suryavanshi (1992),Action|Fantasy|Horror
+1003,Zanjeer (2013),Action|Crime|Drama
+1004,Shukranu (2020),Drama
+1005,Jigarthanda DoubleX (2023),Action|Comedy|Drama
+1006,Tehran,Action|Thriller
+1007,Ramaiya Vastavaiya (2013),Action|Drama|Romance
+1008,Yaadein... (2001),Musical|Drama|Romance
+1009,Chhota Bheem Kung Fu Dhamaka (2019),Animation|Action|Adventure|Children
+1010,Maatr (2017),Thriller
+1011,Alag: He Is Different.... He Is Alone... (2006),Action|Drama|Fantasy
+1012,Delhi-6 (2009),Drama
+1013,Vaastav: The Reality (1999),Action|Crime|Drama
+1014,Ship of Theseus (2012),Drama
+1015,Golmaal: Fun Unlimited (2006),Action|Comedy|Drama
+1016,The Hero of Color City (2014),Animation|Adventure|Children
+1017,Raja (1995),Action|Comedy|Drama
+1018,Kyon Ki... (2005),Drama|Romance
+1019,Choked: Paisa Bolta Hai (2020),Drama
+1020,Azhar (2016),Drama
+1021,Panga (2020),Drama
+1022,Rog (2005),Mystery|Romance|Thriller
+1023,Dil Toh Baccha Hai Ji (2011),Comedy|Drama|Romance
+1024,Waqt: The Race Against Time (2005),Comedy|Drama|Children
+1025,Kasethan Kadavulada (2023),Comedy|Drama
+1026,Jurm (1990),Action|Crime|Romance
+1027,Kachchi Kali (1987),Drama
+1028,Who Am I (2023),Drama
+1029,Kachche Dhaage (1999),Action|Drama|Thriller
+1030,Pitaah (2002),Action|Drama
+1031,Guest iin London (2017),Comedy
+1032,Policegiri (2013),Action|Comedy|Crime
+1033,Shaakuntalam (2023),Drama|Fantasy|Romance
+1034,Hasee Toh Phasee (2014),Comedy|Romance
+1035,Tiger Nageswara Rao (2023),Action|Drama|Crime
+1036,Baar Baar Dekho (2016),Action|Comedy|Drama
+1037,Baaghi 4,Action|Drama|Thriller
+1038,Hotel (1981),Horror|Mystery
+1039,Doodhwali (2007),Drama
+1040,Loha (1987),Action|Drama|Thriller
+1041,Socha Na Tha (2005),Comedy|Drama|Romance
+1042,Naseeb (1998),Comedy|Drama|Romance
+1043,Veera Simha Reddy (2023),Action|Drama
+1044,Tadap (2021),Action|Drama|Romance
+1045,Khichdi: The Movie (2010),Comedy|Children
+1046,Bandh Darwaza (1990),Action|Drama|Horror
+1047,Laal Rang (2016),Comedy|Crime|Drama
+1048,Once Again (2018),Drama|Romance
+1049,Samay: When Time Strikes (2003),Crime|Mystery|Thriller
+1050,Mere Jeevan Saathi (1972),Drama|Adventure|Action
+1051,Khaidi No. 150 (2017),Action|Drama|Romance
+1052,Darna Zaroori Hai (2006),Horror
+1053,Raja Ki Ayegi Baraat (1997),Drama|Romance
+1054,Darna Mana Hai (2003),Horror
+1055,Dono (2023),Drama
+1056,Shaurya: It Takes Courage to Make Right... Right (2008),Crime|Drama|Thriller
+1057,Satyameva Jayate (2018),Action|Crime|Drama
+1058,The Conversion (2022),Drama
+1059,Kismat Konnection (2008),Comedy|Drama|Romance
+1060,Kabul Express (2006),Adventure|Comedy|Drama
+1061,China Gate (1998),Action|Adventure|Drama
+1062,Ghayal Once Again (2016),Action|Crime|Drama
+1063,Sherdil (2022),Comedy|Drama
+1064,Kaala Barbarian Chapter 1 (2023),Thriller
+1065,Dance Dance (1987),Action|Drama|Musical
+1066,Mr. & Mrs. Khiladi (1997),Comedy|Drama|Romance
+1067,Deewaar (1975),Action|Crime|Drama
+1068,Manjhi: The Mountain Man (2015),Drama
+1069,Dhadak (2018),Drama|Romance
+1070,Kites (2010),Action|Drama|Romance
+1071,State of Siege: Temple Attack (2021),Action|Thriller
+1072,Dulha Mil Gaya (2010),Comedy|Drama|Romance
+1073,Dil Aashna Hai (...The Heart Knows) (1992),Drama|Romance
+1074,Pizza (2014),Horror
+1075,Yuvvraaj (2008),Comedy|Drama|Musical
+1076,VD 12,Action|Drama
+1077,Happy Bhag Jayegi (2016),Comedy|Romance
+1078,PM Narendra Modi (2019),Drama
+1079,Bole Chudiyan,Comedy|Drama|Romance
+1080,Mohabbat (1997),Drama|Romance
+1081,Arjun Pandit (1999),Action|Crime|Romance
+1082,Beta (1992),Drama|Romance
+1083,'D' (2005),Crime|Drama|Thriller
+1084,Saugandh (1991),Action|Drama|Romance
+1085,Aap Mujhe Achche Lagne Lage (2002),Action|Drama|Romance
+1086,Thackeray (2019),Drama
+1087,Julie (1975),Children|Musical|Romance
+1088,Shimla Mirchi (2020),Comedy|Romance
+1089,Golmaal Again (2017),Action|Comedy|Fantasy
+1090,Enemy (2021),Action|Drama|Thriller
+1091,Madhumati (1958),Fantasy|Musical|Mystery
+1092,Kick 2,(no genres listed)
+1093,Soni (2018),Crime|Drama
+1094,Saagar (1985),Drama|Romance
+1095,Paap (2003),Action|Crime|Drama
+1096,Jackpot (2013),Comedy|Thriller
+1097,Roadside Romeo (2008),Animation|Adventure|Comedy|Children
+1098,Maarrich (2022),Crime|Mystery|Thriller
+1099,Punjab '95,Drama|Crime
+1100,Dosti: Friends Forever (2005),Drama|Romance
+1101,Ziddi (1997),Action|Drama
+1102,Dushmun (1971),Drama
+1103,The Accidental Prime Minister (2019),Drama
+1104,Preetam (1971),Comedy|Romance
+1105,Drive (2019),Action|Crime|Thriller
+1106,Ajmer 92 (2023),Crime|Drama
+1107,Hindutva (2022),Drama
+1108,Shakuntala Devi (2020),Drama
+1109,Anwar (2007),Drama|Romance|Thriller
+1110,Garv: Pride and Honour (2004),Action|Crime|Drama
+1111,The Storyteller (2022),Drama
+1112,Mere Jeevan Saathi (2006),Drama|Musical|Romance
+1113,Kochadaiiyaan (2014),Animation|Action|Adventure|Children
+1114,Tahkhana (1986),Action|Drama|Horror
+1115,Bombay (2023),Action
+1116,King Uncle (1993),Comedy|Drama|Children
+1117,Don (2007),Action|Crime|Drama
+1118,Chhota Bheem aur Krishna: Mayanagari (2011),Animation|Action|Fantasy|Children
+1119,Bedhadak,(no genres listed)
+1120,Yaara (2020),Action|Crime|Drama
+1121,De De Pyaar De (2019),Comedy|Drama|Romance
+1122,Malaal (2019),Action|Drama|Romance
+1123,Match Of Life (2022),Comedy
+1124,Ek Betuke Aadmi Ki Afrah Raatein (2023),Drama
+1125,Do Dooni Chaar (2010),Comedy|Crime|Drama
+1126,Bhabhi (1991),Comedy|Drama|Children
+1127,Badal (2000),Action|Crime|Drama
+1128,Badla Sherni Ka (2001),Action
+1129,Awara Pagal Deewana 2,(no genres listed)
+1130,Badnaam Gali (2019),Comedy
+1131,Vishwaroopam (2013),Action|Thriller
+1132,Unpaused (2020),Drama|Romance
+1133,Vedaat Maratha Veer Daudale Saat,Drama
+1134,Victoria: Ek Rahasya (2023),Horror|Thriller
+1135,Tum Mere Ho (1990),Fantasy|Horror|Romance
+1136,Jaani Dushman: Ek Anokhi Kahani (2002),Action|Fantasy|Horror
+1137,Amar Akbar Anthony (1977),Action|Comedy|Drama
+1138,Spirit,(no genres listed)
+1139,Khamoshi: The Musical (1996),Drama|Musical|Romance
+1140,Teesri Kasam (1966),Comedy|Drama|Romance
+1141,Pati Patni Aur Woh (2019),Comedy|Romance
+1142,Chhatriwali (2023),Comedy|Drama
+1143,Lootcase (2020),Comedy|Crime
+1144,Devdas (1955),Drama|Musical|Romance
+1145,Murder Mubarak,Comedy|Horror|Mystery
+1146,Rambo,Action
+1147,Sarzameen,Drama|Mystery|Thriller
+1148,Ruslaan,Action|Thriller
+1149,Earth (1998),Drama|Romance|War
+1150,Mister Mummy (2022),Comedy|Drama
+1151,Pailwaan (2019),Action|Drama
+1152,Rajnigandha (2021),Crime|Drama
+1153,Haré Rama Haré Krishna (1971),Drama|Musical
+1154,Sold (2014),Drama
+1155,Bhoot (2003),Horror|Mystery|Thriller
+1156,Martin (2023),Action|Drama|Thriller
+1157,Pyar Ke Do Pal (1986),Action|Drama
+1158,Tumko Na Bhool Paayenge (2002),Action|Romance|Thriller
+1159,Fugly (2014),Drama|Thriller
+1160,Anokha Bandhan (1982),Drama
+1161,Phas Gaye Re Obama (2010),Comedy|Crime|Drama
+1162,Tauba Tauba (2004),Comedy|Drama
+1163,Hera Pheri (1976),Action|Comedy|Crime
+1164,Heropanti (2014),Action|Romance
+1165,Pihu (2016),Drama|Thriller
+1166,Oh My Ghost (2022),Comedy|Horror
+1167,Chamatkar (1992),Comedy|Drama|Fantasy
+1168,Dasvidaniya (2008),Comedy|Drama
+1169,MP3: Mera Pehla Pehla Pyaar (2007),Comedy|Drama|Musical
+1170,Andaaz (2003),Drama|Musical|Romance
+1171,Shanakht (1989),Drama
+1172,Daag: A Poem of Love (1973),Drama|Musical|Romance
+1173,Dostana 2 (2021),Comedy
+1174,Nache Nagin Gali Gali (1989),Horror
+1175,Auron Mein Kahan DumTha,Drama|Romance
+1176,What's Your Raashee? (2009),Comedy|Drama|Romance
+1177,Tutak Tutak Tutiya (2016),Comedy|Horror
+1178,Jaal: The Trap (2003),Action|Crime|Drama
+1179,Sharaabi (1984),Comedy|Drama|Romance
+1180,Badmaa$h Company (2010),Comedy|Crime|Drama
+1181,Hamari Adhuri Kahani (2015),Drama|Romance
+1182,Bad Boy (2023),Comedy|Drama|Romance
+1183,Doordarshan (2020),Comedy|Drama
+1184,Haasil (2003),Crime|Drama|Romance
+1185,Neal 'N' Nikki (2005),Comedy|Musical|Romance
+1186,Bandhan (1998),Action|Drama|Romance
+1187,Hijack (2008),Action|Thriller
+1188,Fida (2004),Action|Crime|Drama
+1189,Cold Case (2021),Horror|Mystery|Thriller
+1190,Mastizaade (2016),Comedy
+1191,Ab Tak Chhappan (2004),Crime|Drama
+1192,Akele Hum Akele Tum (1995),Drama|Romance
+1193,Jab Pyaar Kisise Hota Hai (1998),Comedy|Drama|Romance
+1194,Allah-Rakha (1986),Action|Drama
+1195,Bhaagamathie Full Hindi Dubbed Movie (2018),Horror
+1196,Saathiya (2002),Drama|Children|Romance
+1197,Ankahi Kahaniya (2021),Drama|Romance
+1198,Pudhu Pettai (2006),Action|Crime|Drama
+1199,Tejas (2023),Action|Drama|Thriller
+1200,Shubh Mangal Saavdhan (2017),Comedy|Romance
+1201,Phantom (2015),Action|Drama|Thriller
+1202,Coolie No. 1 (2020),Action|Comedy|Romance
+1203,Aisha (2010),Comedy|Drama|Romance
+1204,Gumnaam (1965),Drama|Mystery|Thriller
+1205,Fire in the Mountains (2021),Drama
+1206,Yaar Gaddar (1994),Action|Drama|Mystery
+1207,Barsaat (1995),Action|Romance
+1208,Heyy Babyy (2007),Comedy|Drama
+1209,Dhol (2007),Comedy|Crime|Mystery
+1210,Bahut Hua Sammaan (2020),Comedy|Crime|Drama
+1211,Lajja (2001),Action|Crime|Drama
+1212,Krishna Cottage (2004),Horror|Mystery|Romance
+1213,Jung (1996),Action|Crime|Drama
+1214,Nela Ticket (2018),Action|Comedy|Crime
+1215,Pyasi Nigahen (1990),Thriller
+1216,Veere Di Wedding (2018),Comedy
+1217,Fire (1996),Drama|Romance
+1218,NH10 (2015),Action|Crime|Drama
+1219,Gunjan Saxena: The Kargil Girl (2020),Action|Drama
+1220,Silence... Can You Hear It? (2021),Crime|Thriller
+1221,Badass Ravikumar (2024),Action|Musical
+1222,Baap,Action
+1223,Khoj (2017),Crime|Mystery|Thriller
+1224,Jhoom Barabar Jhoom (2007),Comedy|Drama|Musical
+1225,Humshakals (2014),Comedy|Drama|Romance
+1226,Prahaar: The Final Attack (1991),Drama|Thriller|Action
+1227,Maine Dil Tujhko Diya (2002),Action|Romance
+1228,Raja Natwarlal (2014),Crime|Thriller
+1229,Chhorii (2021),Drama|Horror|Thriller
+1230,Andhaa Kaanoon (1983),Action|Drama
+1231,The Song of Scorpions (2017),Drama
+1232,Ram Jaane (1995),Action|Crime|Drama
+1233,Machine (2017),Action|Mystery|Romance
+1234,Acting Ka Bhoot (2023),Comedy|Crime
+1235,Hamara Dil Aapke Paas Hai (2000),Action|Drama|Romance
+1236,Pyaar Ishq Aur Mohabbat (2001),Drama|Musical|Romance
+1237,Pantham (2018),Action
+1238,Kyaa Kool Hai Hum (2005),Comedy|Mystery
+1239,Hamid (2018),Drama
+1240,Apna Sapna Money Money (2006),Comedy|Musical|Romance
+1241,Daag: The Fire (1999),Action|Drama|Thriller
+1242,The Killer (2006),Action|Crime|Drama
+1243,Mission Lion,Thriller
+1244,Siren (2023),Crime|Thriller
+1245,Laila Aur Satt Geet (2020),Drama
+1246,Oye Lucky! Lucky Oye! (2008),Comedy|Crime|Drama
+1247,Bhoot: Part One - The Haunted Ship (2020),Horror|Mystery|Thriller
+1248,Shabaash Mithu (2022),Drama
+1249,Hulchul (2004),Action|Comedy|Drama
+1250,Saand Ki Aankh (2019),Drama
+1251,Vijaypath (1994),Action|Drama|Romance
+1252,Kodiyil Oruvan (2021),Action|Drama
+1253,Paltan (2018),Action|Drama
+1254,Rehnaa Hai Terre Dil Mein (2001),Comedy|Drama|Musical
+1255,Ta Ra Rum Pum (2007),Comedy|Drama|Children
+1256,Indoo Ki Jawani (2020),Comedy|Drama
+1257,The Dirty Picture (2011),Drama|Comedy
+1258,Pagalpanti (2019),Action|Comedy
+1259,Dil Ka Rishta (2003),Drama|Musical|Romance
+1260,Khaali Peeli (2020),Action|Comedy|Romance
+1261,Aandhi (1975),Drama|Romance
+1262,Shamitabh (2015),Drama
+1263,Miss Lovely (2012),Crime|Drama|Romance
+1264,Vidhaata (1982),Action|Drama
+1265,Pran Jaye Par Vachan Na Jaye (1974),Action|Drama|Musical
+1266,Dil Ka Kya Kasoor (1992),Musical|Romance
+1267,Suhaag (1994),Action|Comedy|Drama
+1268,Raja Babu (1994),Action|Comedy|Drama
+1269,Parivartan (2022),Children
+1270,Tigers (2014),Drama
+1271,Aa Ab Laut Chalen (1999),Musical|Romance|Drama
+1272,Khubsoorat (1980),Comedy|Drama|Children
+1273,Untitled SRK-Suhana-Marflix movie,Action
+1274,Rishtey (2002),Action|Drama|Romance
+1275,Chaahat (1996),Drama|Romance
+1276,Aalavandhan (2001),Action|Crime|Thriller
+1277,Shubh Mangal Zyada Saavdhan (2020),Comedy|Crime|Romance
+1278,One Night Stand (2016),Drama|Romance
+1279,Laawaris (1981),Drama|Action|Musical
+1280,Dacait (1987),Action|Drama
+1281,Naam (1986),Crime|Drama|Thriller
+1282,Nishabd (2007),Drama
+1283,Kadhalar Dinam (1999),Drama|Musical|Romance
+1284,Sixteen (2013),Drama|Romance|Thriller
+1285,Lohardaga (2023),Drama
+1286,Sathyam (2008),Action|Crime|Drama
+1287,Salmon 3D (2023),Romance|Thriller
+1288,Gumrah (1993),Action|Crime|Drama
+1289,Ijaazat (1987),Drama|Musical|Romance
+1290,Chimanee Pakhre (2000),Drama
+1291,Ek Vivaah... Aisa Bhi (2008),Drama|Romance
+1292,Break Ke Baad (2010),Comedy|Drama|Romance
+1293,Rock On 2 (2016),Drama|Musical
+1294,Indrasabha (1932),Musical|Romance
+1295,Maharaj,Drama|Crime
+1296,21: Battle of Saragarhi,War
+1297,Bumm Bumm Bole (2010),Drama|Children|Thriller
+1298,Anjaam (1994),Crime|Drama|Thriller
+1299,Hacked (2020),Thriller
+1300,Dybbuk: The Curse Is Real (2021),Drama|Horror
+1301,Haathi Mere Saathi (1971),Drama|Children|Musical
+1302,Mausam (1975),Musical|Romance
+1303,Sardaar Gabbar Singh (2016),Action|Comedy|Crime
+1304,Vardi (1989),Action|Crime|Drama
+1305,Aag Ke Sholay (1988),Action|Thriller
+1306,Kacchey Limbu (2022),Drama|Children
+1307,Yeh Hai Jalwa (2002),Comedy|Drama|Romance
+1308,Saawariya (2007),Drama|Musical|Romance
+1309,Emergency (2023),Drama
+1310,Makdee (2002),Comedy|Children|Fantasy
+1311,Black Rose (2021),Thriller
+1312,Kaalia (1981),Action|Drama
+1313,Prem Rog (1982),Drama|Musical|Romance
+1314,Sarkar Raj (2008),Action|Crime|Drama
+1315,Phoonk (2008),Drama|Horror|Mystery
+1316,Gehrayee (1980),Drama|Horror
+1317,Yamla Pagla Deewana (2011),Action|Comedy|Drama
+1318,Saajan Ka Ghar (1994),Drama
+1319,Love Story 2050 (2008),Action|Adventure|Drama
+1320,Commando 2 (2017),Action|Adventure|Thriller
+1321,Mehsampur (2018),Drama
+1322,Mere Brother Ki Dulhan (2011),Comedy|Drama|Children
+1323,12th Fail (2023),(no genres listed)
+1324,Jaan-E-Mann: Let's Fall in Love... Again (2006),Comedy|Drama|Musical
+1325,Umrao Jaan (2006),Drama|Romance
+1326,Dum Maaro Dum (2011),Action|Crime|Drama
+1327,Farz (1967),Action|Crime|Thriller
+1328,Sui Dhaaga: Made in India (2018),Comedy|Drama
+1329,Om - The Battle Within (2022),Action|Thriller
+1330,Iftikhar (2022),Drama
+1331,Sohni Mahiwal (1984),Action|Drama|Romance
+1332,Cash (2021),Comedy|Drama
+1333,Drona (2008),Action|Adventure|Fantasy
+1334,Bewafaa (2005),Drama|Romance
+1335,Bazaar (1982),Drama|Children
+1336,Why Cheat India (2019),Comedy|Crime|Drama
+1337,Ek Phool Do Mali (1969),Drama|Children|Musical
+1338,Salaam Namaste (2005),Comedy|Drama|Romance
+1339,B.A. Pass 3 (2021),Drama|Romance
+1340,Kasoor (2001),Drama|Mystery|Thriller
+1341,Players (2012),Action|Crime|Thriller
+1342,Purana Mandir (1984),Drama|Horror
+1343,Dushman (1998),Crime|Drama|Thriller
+1344,Phillauri (2017),Comedy|Drama|Fantasy
+1345,Aurangzeb (2013),Action|Drama|Thriller
+1346,Right Yaaa Wrong (2010),Action|Crime|Drama
+1347,Bhagwaan Dada (1986),Drama|Thriller
+1348,Raktneeti (2023),Thriller
+1349,Vishwaroopam 2 (2018),Action|Thriller
+1350,Love in a Taxi (2023),Crime|Thriller
+1351,Action Jackson (2014),Action|Crime|Thriller
+1352,Atithi Tum Kab Jaoge? (2010),Comedy
+1353,Purab Aur Pachhim (1970),Drama|Romance
+1354,Sparsh (1980),Drama|Romance
+1355,Kya Kehna (2000),Drama|Romance
+1356,Navra Mazha Navsacha (2004),Comedy
+1357,Welcome to New York (2018),Comedy|Drama
+1358,Chann Pardesee (1981),Drama
+1359,Suhaag (1979),Action|Comedy|Drama
+1360,Annamalai (1992),Action|Drama
+1361,Saaransh (1984),Drama
+1362,All India Rank (2023),Comedy
+1363,Silsila (1981),Drama|Children|Romance
+1364,Great Grand Masti (2016),Comedy|Drama|Fantasy
+1365,100 Days (1991),Horror|Romance|Thriller
+1366,Sheela I Love You (2001),Thriller
+1367,Mr. & Mrs. Mahi (2024),Drama
+1368,Road to Sangam (2009),Drama|Thriller
+1369,Suraj (1966),Romance|Musical|Action
+1370,Honeymoon Travels Pvt. Ltd. (2007),Comedy|Drama|Romance
+1371,Jung (2000),Action|Crime|Drama
+1372,Raavan (2010),Action|Adventure|Drama
+1373,City Lights (2014),Drama|Thriller
+1374,Kaala Patthar (1979),Action|Drama
+1375,Blank (2019),Action|Thriller
+1376,Mitron (2018),Comedy
+1377,Mahakaal (1994),Comedy|Horror
+1378,Daku Ramkali (2000),Adventure|Drama|Musical
+1379,Ajji (2017),Crime|Drama
+1380,Mudrank: The Stamp (2009),Mystery
+1381,Aarzoo (1999),Action|Drama|Romance
+1382,Bluffmaster! (2005),Comedy|Crime|Drama
+1383,Oh Darling Yeh Hai India (1995),Comedy
+1384,Ramayana: The Epic (2010),Animation|Action|Adventure|Children
+1385,Mangal Pandey: The Rising (2005),Drama
+1386,The Journey of Karma (2018),Drama
+1387,Raaz Reboot (2016),Horror|Mystery|Romance
+1388,Dhanak (2015),Comedy|Drama
+1389,Bhoot and Friends (2010),Animation|Action|Adventure|Children
+1390,Saajan Chale Sasural (1996),Comedy|Drama
+1391,Sssshhh... (2003),Horror|Mystery
+1392,Haathi Mere Saathi (2021),Action|Drama
+1393,The Shaukeens (2014),Comedy
+1394,Kati Patang (1970),Drama|Children|Musical
+1395,Ulajh,Thriller
+1396,I Am Kalam (2010),Comedy|Drama|Children
+1397,Hum Dono (1961),Drama|Musical|Romance
+1398,Jannat: In Search of Heaven... (2008),Crime|Drama|Romance
+1399,Jeet (1996),Action|Romance
+1400,Mard (1985),Action|Comedy|Drama
+1401,Half Girlfriend (2017),Drama|Romance
+1402,Jalebi (2018),Drama|Romance
+1403,Thupparivaalan (2017),Action|Crime|Thriller
+1404,Pyar Ka Karz (1990),Drama
+1405,Saina (2021),Drama
+1406,Virgin Bhanupriya (2020),Comedy|Drama
+1407,Halahal (2020),Crime|Drama|Mystery
+1408,Maid for each other (2022),Romance
+1409,Stalin (2006),Action|Drama
+1410,Dus (2005),Action|Crime|Drama
+1411,Om Dar-B-Dar (1988),Drama
+1412,Mann (1999),Drama|Romance
+1413,3rd October (2023),Drama
+1414,Baabul (2006),Drama|Children|Romance
+1415,Roti Kapada Aur Makaan (1974),Action|Drama|Musical
+1416,Dobaara: See Your Evil (2017),Horror|Mystery
+1417,Hawas (2004),Drama|Romance|Thriller
+1418,Fateh,Action|Crime
+1419,Zakhmi Sipahi (1995),Action
+1420,Happy Ending (2014),Comedy|Romance
+1421,Japan (2023),Action|Drama|Thriller
+1422,Gunda (1998),Action|Comedy|Crime
+1423,Nishant (1975),Crime|Drama
+1424,The Past (2018),Drama|Horror
+1425,Army (1996),Action|Drama
+1426,Dvand: The Internal Conflict (2023),Drama
+1427,Dulhe Raja (1998),Comedy
+1428,Irada (2017),Drama|Mystery|Thriller
+1429,Jaggu Ki Lalten (2022),Drama
+1430,Blackmail (1973),Drama|Musical|Romance
+1431,Coolie (1983),Action|Comedy|Drama
+1432,Dedh Ishqiya (2014),Comedy|Drama|Romance
+1433,VD18 (2024),Action|Drama
+1434,Ek Doctor Ki Maut (1990),Drama
+1435,Ram Gopal Varma Ki Aag (2007),Action|Adventure|Comedy
+1436,Yeh Ballet (2020),Drama|Musical
+1437,Namak Haraam (1973),Drama
+1438,Woh Lamhe ... (2006),Drama|Romance
+1439,Mandi (1983),Comedy|Drama
+1440,Naya Daur (1957),Action|Drama|Musical
+1441,Welcome to Karachi (2015),Action|Comedy|War
+1442,No Land's Man (2021),Drama
+1443,1971 (2007),Action|Drama|War
+1444,Saheb Biwi Aur Gangster 3 (2018),Action|Crime|Drama
+1445,Hawaizaada (2015),Drama
+1446,Tumhari Sulu (2017),Comedy|Drama
+1447,Prem (1995),Action|Drama|Romance
+1448,Dangerous Ishhq (2012),Fantasy|Mystery|Romance
+1449,Ajay (1996),Action|Drama|Romance
+1450,Shuddh Desi Romance (2013),Comedy|Drama|Romance
+1451,Aakhree Raasta (1986),Action|Crime|Drama
+1452,Mubarakan (2017),Comedy|Romance
+1453,Police Aur Mujrim (1992),Action|Musical|Romance
+1454,Jazbaa (2015),Action|Crime|Drama
+1455,Lucky: No Time for Love (2005),Musical|Drama|Romance
+1456,Ankhen (1968),Action|Adventure|Drama
+1457,Mashaal (1984),Action|Drama|Children
+1458,Super Nani (2014),Comedy|Drama|Children
+1459,Dhoondte Reh Jaoge (2009),Comedy|Drama
+1460,Tahalka (1992),Action|Adventure|Thriller
+1461,Googly (2013),Comedy|Romance
+1462,Swarg (1990),Drama
+1463,Hadh Kar Di Aapne (2000),Comedy|Romance
+1464,Mere Baap Pehle Aap (2008),Comedy|Drama|Romance
+1465,Amir Garib (1974),Action|Thriller
+1466,Long Live Brij Mohan (2017),Comedy|Crime|Drama
+1467,Meel patthar (2020),Drama
+1468,Hatya (1988),Action|Crime|Drama
+1469,NTR: Kathanayakudu (2019),Drama
+1470,Apne (2007),Action|Drama
+1471,Yeh Lamhe Judaai Ke (2004),Drama|Mystery|Romance
+1472,No Problem (2010),Action|Comedy|Crime
+1473,Yudhra,Action
+1474,Baghavat (1982),Action|Romance
+1475,Begum Jaan (2017),Action|Drama
+1476,Taarzan: The Wonder Car (2004),Action|Adventure|Drama
+1477,Yaariyan (2014),Drama|Romance
+1478,The Legend of Bhagat Singh (2002),Action|Drama
+1479,Beyond the Clouds (2017),Drama|Children
+1480,Oops! (2003),Comedy|Drama
+1481,Hawaa Hawaai (2014),Drama|Children
+1482,Ram Singh Charlie (2020),Drama
+1483,Main Atal Hoon (2023),Drama
+1484,Taqdeer (1967),Drama|Children
+1485,Simran (2017),Crime|Drama|Thriller
+1486,Dulhan Hum Le Jayenge (2000),Comedy|Drama|Romance
+1487,Indian Never Again Nirbhaya (2018),Drama
+1488,The Great Gambler (1979),Action|Crime|Romance
+1489,Chaar Lugaai (2023),Mystery
+1490,Pinjar: Beyond Boundaries... (2003),Drama
+1491,200: Halla Ho (2021),Crime|Drama|Thriller
+1492,Ayalaan (2024),Action|Adventure|Sci-Fi
+1493,Total Dhamaal (2019),Action|Adventure|Comedy
+1494,Aayirathil Oruvan (2010),Action|Adventure
+1495,Fashion (2008),Drama|Romance
+1496,14 Phere (2021),Comedy|Romance
+1497,Yellow Bus (2023),Drama
+1498,Mere Sajana Saath Nibhana (1992),Drama|Musical
+1499,Torbaaz (2020),Action|Drama
+1500,Ishq Vishk (2003),Comedy|Romance
+1501,Chakravyuh (2012),Action|Drama|Thriller
+1502,Darwaza (2002),Horror
+1503,Kadakh (2019),Comedy|Drama|Thriller
+1504,Scorned (2020),Thriller
+1505,Ankush (1986),Action|Drama
+1506,Shikara (2020),Drama|Romance
+1507,Freaky Ali (2016),Comedy|Drama
+1508,Ready (2011),Action|Comedy|Romance
+1509,Do Patti,Drama|Mystery|Thriller
+1510,Iqbal (2005),Drama
+1511,Operation Fryday (2023),Action|Crime|Drama
+1512,Dil Hai Gray (2023),Crime
+1513,Kahin Pyaar Na Ho Jaaye (2000),Comedy|Drama|Musical
+1514,Aankhen 2,Thriller
+1515,Journey Bombay to Goa: Laughter Unlimited (2007),Action|Adventure|Comedy
+1516,Lekin... (1990),Drama|Fantasy|Musical
+1517,The Hero: Love Story of a Spy (2003),Action|Adventure|Drama
+1518,The Zoya Factor (2019),Comedy|Drama|Romance
+1519,Kucch To Hai (2003),Horror|Mystery|Romance
+1520,Ungli (2014),Crime|Drama|Thriller
+1521,Parinda (1989),Action|Crime|Drama
+1522,Saajan (1991),Drama|Musical|Romance
+1523,Prassthanam (2019),Action|Drama
+1524,Berlin,Thriller
+1525,Bhonsle (2018),Drama
+1526,Chashme Baddoor (2013),Comedy|Drama
+1527,Pukar (2000),Action|Drama|Romance
+1528,All Is Well (2015),Comedy|Drama|Romance
+1529,Gandhi Talks,Comedy
+1530,Do Ankhen Barah Haath (1957),Comedy|Crime|Drama
+1531,Ittu Si Baat (2022),Drama
+1532,Lamhe (1991),Drama|Musical|Romance
+1533,Qayamat Se Qayamat Tak (1988),Drama|Musical|Romance
+1534,Bunty Aur Babli 2 (2021),Comedy|Romance
+1535,Ahsaas (1979),Drama|Romance
+1536,Harami (2020),Crime|Drama|Romance
+1537,Kudrat (1981),Drama|Mystery|Romance
+1538,Kisna: The Warrior Poet (2005),Drama|Musical|Romance
+1539,Jal (2013),Drama
+1540,Ek Gulelbaaz the Catapult (2019),Drama|Children
+1541,Jail Yatra (1981),Action|Romance
+1542,Fraud Saiyyan (2019),Comedy|Drama
+1543,Barot House (2019),Mystery|Thriller
+1544,The Attacks of 26/11 (2013),Action|Crime|Drama
+1545,Son of Sardaar (2012),Action|Comedy|Romance
+1546,Rocky (1981),Action|Romance
+1547,Mere Aagosh Mein (2000),Thriller
+1548,Narasimha (1991),Action|Drama
+1549,The Burning Train (1980),Action|Thriller
+1550,Dostana (1980),Action|Crime|Drama
+1551,Bemisal (1982),Drama|Children
+1552,Chhota Bheem Himalayan Adventure (2016),Animation|Children
+1553,Vijay (1988),Action|Drama|Romance
+1554,Ghazab (1982),Action|Comedy|Drama
+1555,Free Entry (2006),Drama|Romance
+1556,Commando (1988),Action|Drama|Romance
+1557,Jaal (1986),Action|Drama|Thriller
+1558,Shaapit: The Cursed (2010),Adventure|Horror|Romance
+1559,Hello Brother (1999),Action|Comedy|Fantasy
+1560,Ghatak: Lethal (1996),Action|Drama
+1561,Ramprasad Ki Tehrvi (2019),Comedy|Drama
+1562,Backfire (2022),Mystery
+1563,Main Prem Ki Diwani Hoon (2003),Comedy|Drama|Musical
+1564,Naseeb Apna Apna (1986),Comedy|Drama
+1565,Parivaar (1987),Drama|Children
+1566,Tu Hai Mera Sunday (2016),Comedy|Drama
+1567,Rakshak (1996),Action|Thriller
+1568,#Homecoming (2022),Drama|Musical
+1569,Farz (2001),Action|Thriller
+1570,Chalk N Duster (2016),Drama
+1571,U Me Aur Hum (2008),Drama|Romance
+1572,"Tom, Dick, and Harry (2006)",Action|Comedy|Romance
+1573,Tryst with Destiny (2021),Drama
+1574,Mukti Bhawan (2016),Comedy|Drama
+1575,Hero No. 1 (1997),Comedy|Drama|Musical
+1576,Ajab Prem Ki Ghazab Kahani (2009),Action|Comedy|Musical
+1577,Dhadkan (2000),Drama|Romance
+1578,I Love You (2023),Drama|Romance|Thriller
+1579,The Stoneman Murders (2009),Crime|Drama|Mystery
+1580,Lomad (2023),Crime|Drama|Thriller
+1581,Awaara (1951),Drama|Musical|Romance
+1582,Bhuj: The Pride of India (2021),Action|Drama
+1583,Tribhanga (2021),Drama|Children
+1584,Kuch Pal Pyar Ke (2018),Drama
+1585,Dor (2006),Drama
+1586,Hero (1983),Action|Drama|Romance
+1587,Aaj Ka Arjun (1990),Action|Crime|Drama
+1588,Do Knot Disturb (2009),Comedy|Drama
+1589,Lupt (2018),Horror|Thriller
+1590,Cargo (2019),Drama|Fantasy|Sci-Fi
+1591,Shiva (1989),Action|Crime|Drama
+1592,Cheeni Kum (2007),Comedy|Drama|Romance
+1593,Chhota Bheem and the Curse of Damyaan (2012),Animation|Adventure|Fantasy|Children
+1594,Veer (2010),Action|Adventure|Drama
+1595,Damini (1993),Crime|Drama
+1596,Khichdi 2 (2023),(no genres listed)
+1597,The Huntress,Action|Drama|Sci-Fi
+1598,Rang (1993),Drama|Romance
+1599,Jungle Ki Hasina (1990),Action|Adventure
+1600,Sandwich (2006),Comedy|Thriller
+1601,Khud-Daar (1982),Action|Drama
+1602,Sunday (2008),Action|Comedy|Mystery
+1603,F.A.L.T.U (2011),Comedy|Drama
+1604,The Y (2023),Horror|Mystery|Thriller
+1605,Swayambhu,Adventure|Drama|Fantasy
+1606,Aunty No. 1 (1998),Action|Comedy|Drama
+1607,Shabd (2005),Drama|Thriller
+1608,Do Raaste (1969),Drama|Romance
+1609,Mela (2000),Action|Adventure|Comedy
+1610,Lingaa (2014),Action|Comedy|Drama
+1611,Yeh Vaada Raha (1982),Romance|Musical|Drama
+1612,Firaaq (2008),Drama|Thriller
+1613,Ek Rishtaa: The Bond of Love (2001),Drama
+1614,15 Park Avenue (2005),Drama
+1615,Balika Badhu (1976),Comedy|Drama|Romance
+1616,Angoor (2005),Drama
+1617,Baap Beti (1954),Drama
+1618,Gardish (1993),Action|Crime|Drama
+1619,Kill Dil (2014),Action|Comedy|Drama
+1620,Aashiqui (1990),Musical|Drama|Romance
+1621,Tridev (1989),Action|Crime|Drama
+1622,Junko (2017),Crime
+1623,Baazi (1995),Action|Thriller|Crime
+1624,Ankur Arora Murder Case (2013),Drama|Thriller
+1625,Benaam (1974),Drama|Mystery|Thriller
+1626,Parichay (1972),Drama|Children|Musical
+1627,Kartoos (1999),Action|Thriller
+1628,Imtihaan (1994),Action|Drama|Romance
+1629,Chintu Ka Birthday (2020),Comedy|Drama|War
+1630,Amavas (2019),Horror|Thriller
+1631,Bhindi Baazaar (2011),Crime|Drama|Thriller
+1632,Ankur (1974),Drama
+1633,Karz (1980),Action|Musical|Romance
+1634,Mr. Natwarlal (1979),Action|Comedy|Romance
+1635,Rangeela Raja (2019),Comedy
+1636,Teri Meherbaniyan (1985),Action|Crime|Drama
+1637,Hum Se Badkar Kaun (1981),Adventure|Drama
+1638,Eeb Allay Ooo! (2019),Comedy|Drama
+1639,Haseena Maan Jaayegi (1999),Action|Comedy|Romance
+1640,404: Error Not Found (2011),Drama|Mystery|Thriller
+1641,DJ Tillu (2022),Action|Comedy|Crime
+1642,Genius (2018),Action|Thriller
+1643,Suraj Pe Mangal Bhari (2020),Comedy
+1644,Adi Shankaracharya (1983),Drama
+1645,The Final Exit (2017),Horror
+1646,Dec-24 (2023),Horror|Thriller
+1647,Dev Bhoomi (2016),Drama
+1648,Bull (2023),Action|Drama
+1649,Satellite Shankar (2019),Action|Drama
+1650,Baton Baton Mein (1979),Comedy|Romance
+1651,Soorya,Crime|Drama|Thriller
+1652,Kidnap (2008),Action|Crime|Drama
+1653,Talaash: The Hunt Begins... (2003),Action|Crime|Drama
+1654,Chittagong (2012),Action|Drama|War
+1655,Batti Gul Meter Chalu (2018),Drama
+1656,Genie (2023),Action|Fantasy
+1657,Boss (2013),Action|Comedy|Crime
+1658,Power (2014),Action|Comedy|Crime
+1659,Tsunami,Drama|Thriller
+1660,Viruddh... Family Comes First (2005),Drama|Children
+1661,Tango Charlie (2005),Action|Adventure|Drama
+1662,Bank Chor (2017),Action|Comedy|Crime
+1663,Nautanki Saala! (2013),Comedy|Drama|Romance
+1664,Luv Shuv Tey Chicken Khurana (2012),Comedy
+1665,Koshish (1972),Drama
+1666,Sakthi (2011),Action|Adventure|Fantasy
+1667,Jajantaram Mamantaram (2003),Action|Adventure|Comedy
+1668,Inkaar (2013),Drama|Romance|Thriller
+1669,Zamaana Deewana (1995),Action|Comedy|Drama
+1670,American Desi (2001),Comedy|Drama|Romance
+1671,Jai Mummy Di (2020),Comedy|Drama|Romance
+1672,Rosie: The Saffron Chapter (2022),Horror|Mystery|Thriller
+1673,Stree 2 (2024),Comedy|Horror
+1674,Sooryavansham (1999),Action|Drama
+1675,One Day: Justice Delivered (2019),Action|Crime|Thriller
+1676,Na Tum Jaano Na Hum (2002),Comedy|Drama|Musical
+1677,Mohalla Assi (2015),Comedy|Drama
+1678,X: Past Is Present (2015),Drama|Mystery|Romance
+1679,Despatch (2023),Drama
+1680,Kuselan (2008),Comedy|Drama|Children
+1681,Lagaam (1976),Action
+1682,Tere Mere Sapne (1971),Drama|Romance
+1683,Parineeta (2005),Drama|Musical|Romance
+1684,The Immortal Ashwatthama,Action|Adventure|Fantasy
+1685,Jai Ho (2014),Action|Drama
+1686,Tanu Weds Manu Returns (2015),Comedy|Drama|Romance
+1687,Tanu Weds Manu (2011),Comedy|Drama|Romance
+1688,Karma Strikes (2023),Drama|Romance|Thriller
+1689,Kshatriya (1993),Action|Drama|War
+1690,Dayavan (1988),Action|Crime|Drama
+1691,Tamso (2023),Drama|Horror|Thriller
+1692,Haqeeqat (1995),Action|Drama|Romance
+1693,Hum Kisise Kum Naheen (1977),Action|Comedy|Drama
+1694,Apne 2,Drama
+1695,Nehlle Pe Dehlla (2007),Action|Comedy|Crime
+1696,Yeshwant (1997),Action|Crime|Drama
+1697,The Hidden Strike (2020),War
+1698,Woh Ladki Hai Kahaan (2023),Comedy|Drama
+1699,Amar Prem (2020),Drama
+1700,Thadaiyara Thaakka (2012),Action|Crime|Drama
+1701,Return of Hanuman (2007),Animation|Action|Adventure|Children
+1702,Rang Rasiya (2008),Drama|Romance
+1703,Malamaal Weekly (2006),Comedy|Drama|Romance
+1704,Ticket ek Sangharsh (2023),Drama|Thriller
+1705,Angithee 2 (2023),Drama
+1706,Jaane Do (2023),Romance
+1707,Irumbu Thirai (2018),Action|Crime|Thriller
+1708,Haunted - 3D (2011),Action|Fantasy|Horror
+1709,Thoda Pyaar Thoda Magic (2008),Comedy|Drama|Children
+1710,Shakthi: The Power (2002),Action|Drama|Thriller
+1711,Chhoti Si Baat (1976),Comedy|Romance
+1712,Finding Fanny (2014),Adventure|Comedy|Drama
+1713,Parampara (1993),Action|Drama|Romance
+1714,Teri Meri Kahaani (2012),Comedy|Drama|Romance
+1715,Bhoothnath Returns (2014),Comedy|Drama|Fantasy
+1716,Arjun Patiala (2019),Action|Comedy
+1717,Udd Jaa Nanhe Dil,Children
+1718,Balakot: the true story (2020),Action
+1719,Roop Ki Rani Choron Ka Raja (1993),Action|Drama|Musical
+1720,Teesri Manzil (1966),Comedy|Musical|Mystery
+1721,Satyakam (1969),Drama
+1722,Agni Pankh (2004),Action|Drama|Romance
+1723,Rajma Chawal (2018),Comedy|Drama|Children
+1724,Bhai (1997),Action|Drama
+1725,Guddu (1995),Drama|Romance
+1726,Himmatwala (1983),Action|Comedy|Drama
+1727,Big Brother (2007),Action|Crime|Drama
+1728,Amrapali (1966),Musical|Fantasy
+1729,Hukumat (1987),Action|Drama
+1730,Chhoti Chhoti Baatein (1965),Drama
+1731,Minus 31: The Nagpur Files (2023),Crime|Mystery
+1732,No Entry (2005),Comedy|Drama|Musical
+1733,Jism (2003),Drama|Romance|Thriller
+1734,Billoo Baadshah (1989),Action|Crime|Drama
+1735,Auzaar (1997),Action|Drama|Musical
+1736,Nenu Local (2017),Action|Comedy|Romance
+1737,Amar Akbar Anthony (2018),Action|Comedy|Crime
+1738,Hum Kaun Hai? (2004),Horror|Drama|Mystery
+1739,ANOLB,Sci-Fi
+1740,Biwi Ho To Aisi (1988),Comedy|Drama
+1741,Tere Bin Laden: Dead or Alive (2016),Comedy
+1742,Sampoorna Ramayana (1961),Drama|Adventure|Action
+1743,Deewana Mastana (1997),Comedy|Romance
+1744,Shadyantra (2022),Thriller
+1745,Roti (1974),Drama|Romance|Thriller
+1746,Yaadon Ki Baaraat (1973),Action|Drama|Musical
+1747,Eiga Doraemon: Nobita no getsumen tansaki (2019),Animation|Action|Adventure|Children
+1748,Dhh (2017),Drama|Children
+1749,Kaala Sona (1975),Action|Thriller
+1750,Dhaai Akshar Prem Ke (2000),Drama|Romance
+1751,Sandai Kozhi (2005),Action
+1752,Maama Mascheendra (2023),Action|Drama
+1753,99 Songs (2019),Musical|Romance
+1754,A Sublime Love Story: Barsaat (2005),Drama|Romance
+1755,72 Hours: Martyr Who Never Died (2019),Action|Drama
+1756,Diya Aur Toofan (1995),Action|Drama|Thriller
+1757,Silsila Sidnaaz Ka (2021),Romance
+1758,Sheela Meri Jaan (1990),Thriller
+1759,Issaq (2013),Drama|Romance
+1760,8 x 10 Tasveer (2009),Action|Crime|Drama
+1761,Andhera (1975),Crime|Drama|Thriller
+1762,Style (2001),Comedy|Musical|Mystery
+1763,Jawani Ki Kahani (1986),Drama
+1764,Monster,Thriller
+1765,The Warrior (2001),Adventure|Drama
+1766,Naqaab (2007),Crime|Drama|Romance
+1767,Sarkar 3 (2017),Action|Crime|Drama
+1768,Mere Yaar Ki Shaadi Hai (2002),Comedy|Drama|Romance
+1769,Pyaar Hai Toh Hai (2023),(no genres listed)
+1770,Nawabzaade (2018),Comedy|Romance
+1771,Lipstick Under My Burkha (2016),Comedy|Drama
+1772,Ghanchakkar (2013),Comedy|Crime|Thriller
+1773,Vaada (2005),Crime|Drama|Mystery
+1774,Khiladi 1080 (2025),Action
+1775,Meri Jung (1985),Action|Drama
+1776,Love (1991),Drama|Musical|Romance
+1777,Family: Ties of Blood (2006),Action|Crime|Drama
+1778,London Dreams (2009),Drama|Musical
+1779,C U at 9 (2005),Drama|Horror|Mystery
+1780,Balwaan (1992),Action|Adventure
+1781,Aashiqui 3,Drama|Musical|Romance
+1782,Veergati (1995),Action|Drama
+1783,Perversion (2020),Drama
+1784,Eklavya (2007),Action|Drama|Mystery
+1785,Kunwara Baap (1974),Comedy|Drama
+1786,Junglee Tarzan (2001),Action
+1787,Naram Garam (1981),Comedy|Drama
+1788,High Jack (2018),Comedy
+1789,Baaghi: A Rebel for Love (1990),Action|Drama|Romance
+1790,Tevar (2015),Action|Drama|Romance
+1791,Tuesdays and Fridays (2021),Comedy|Musical|Romance
+1792,Maa Tujhhe Salaam (2002),Action|Drama
+1793,Bombairiya (2019),Comedy|Crime|Drama
+1794,Chitrakut (2022),Drama
+1795,Ajanabee (1974),Drama|Romance
+1796,Page 3 (2005),Drama
+1797,Geraftaar (1985),Action|Drama
+1798,Masti (2004),Comedy|Crime|Mystery
+1799,Love Per Square Foot (2018),Comedy|Romance
+1800,Aankhen (2002),Crime|Drama|Thriller
+1801,Daud: Fun on the Run (1997),Action|Adventure|Comedy
+1802,The Ladykiller,(no genres listed)
+1803,Bypass Road (2019),Drama|Mystery|Thriller
+1804,Durgamati: The Myth (2020),Horror|Thriller
+1805,Abhimaan (1973),Drama|Musical
+1806,Penthouse (2023),Crime|Mystery|Thriller
+1807,Dus (1997),Action
+1808,Thokar (1974),Action|Drama|Children
+1809,Tum Bin...: Love Will Find a Way (2001),Drama|Romance
+1810,Gandhi Godse Ek Yudh (2023),Drama
+1811,Shivaay (2016),Action|Adventure|Crime
+1812,Ajooba (1991),Action|Adventure|Comedy
+1813,Naajayaz (1995),Action|Drama
+1814,Oru Kaidhiyin Diary (1985),Crime|Drama|Thriller
+1815,Junglemahal: The Awakening (2023),Horror
+1816,Apno Se Bewafai (2023),Drama
+1817,Desh Premee (1982),Action|Comedy|Drama
+1818,Gang (2000),Action|Crime|Drama
+1819,Tapa Tap (2021),Romance
+1820,Chalti Ka Naam Gaadi (1958),Comedy|Musical|Romance
+1821,Tezz (2012),Action|Crime|Drama
+1822,Pyasa Darinda (1990),Horror
+1823,Budhia Singh: Born to Run (2016),Drama
+1824,Kaash (1987),Drama
+1825,I - Proud to Be an Indian (2004),Action|Crime|Drama
+1826,Criminal (1994),Action|Romance|Thriller
+1827,Force (2011),Action|Crime|Drama
+1828,Judaai (1997),Comedy|Drama|Romance
+1829,Tom Dick and Harry Returns (2021),Comedy
+1830,Padikkathavan (1985),Drama
+1831,Souten (1983),Drama|Musical|Romance
+1832,Caravan (1971),Action|Comedy|Musical
+1833,Ek Ajnabee (2005),Action|Crime|Drama
+1834,Apurva,Drama|Thriller
+1835,Poorna (2017),Action|Adventure|Drama
+1836,Am I Next (2023),Crime
+1837,Bhuddah Hoga Tera Baap (2011),Action|Comedy|Crime
+1838,Red Swastik (2007),Crime|Drama|Thriller
+1839,Firangi (2017),Comedy|Drama
+1840,The Deceivers (1988),Adventure|Crime|Drama
+1841,Kaashi in Search of Ganga (2018),Thriller
+1842,Risk (2007),Action|Crime|Drama
+1843,Bees Saal Baad (1962),Thriller|Musical|Mystery
+1844,Raat (1992),Horror
+1845,R... Rajkumar (2013),Action|Comedy|Crime
+1846,Sulaikha Manzil (2023),Comedy|Drama|Children
+1847,Angoor (1982),Comedy
+1848,Sherni (2021),Action|Adventure|Drama
+1849,1920 London (2016),Horror|Mystery
+1850,Himmatwala (2013),Action|Comedy|Drama
+1851,Chori Chori Chupke Chupke (2001),Comedy|Drama|Musical
+1852,International Khiladi (1999),Action|Crime|Drama
+1853,Play Girls (1995),Thriller
+1854,100%,Comedy
+1855,Sehar (2005),Action|Crime|Drama
+1856,Bade Achhe Lagte Hai (2017),Crime
+1857,Kala Bazar (1960),Crime|Drama|Musical
+1858,Touch Chesi Chudu (2018),Action|Comedy|Crime
+1859,Aap Ki Kasam (1974),Romance|Drama
+1860,Bewakoofiyaan (2014),Comedy|Drama|Romance
+1861,Khamoshi (1970),Drama|Romance
+1862,Sanam Bewafa (1991),Drama|Romance
+1863,Rocket Gang (2022),Comedy|Drama|Fantasy
+1864,Andaman (2021),Drama
+1865,Samadhi (1972),Action|Drama|Romance
+1866,Kareeb (1998),Drama|Romance
+1867,Kuldip Patwal: I Didn't Do It! (2017),Crime|Drama|Mystery
+1868,Dil Ne Jise Apna Kaha (2004),Drama|Romance
+1869,Pokhar Ke Dunu Paar (2022),Drama
+1870,Wonder Women (2022),Drama
+1871,"Gallit Gondhal, Dillit Mujra (2009)",Comedy
+1872,Gol Maal (1979),Comedy|Romance
+1873,Kabhie Kabhie (1976),Drama|Romance
+1874,Mystery of the Tattoo (2023),Thriller
+1875,Dhoomam (2023),Action|Adventure|Drama
+1876,Karma (1986),Action|Adventure|Drama
+1877,Satyam Shivam Sundaram: Love Sublime (1978),Drama|Musical|Romance
+1878,Chandni (1989),Drama|Musical|Romance
+1879,Colour Photo (2020),Drama
+1880,Bhouri (2016),Drama
+1881,Yamla Pagla Deewana Phir Se... (2018),Action|Comedy|Drama
+1882,Katti Batti (2015),Comedy|Drama|Romance
+1883,Chidiakhana (2023),Drama
+1884,Hari Singh Nalwa - Champion of the Khalsa Ji (2022),Drama
+1885,I See You (2006),Comedy|Drama|Fantasy
+1886,Mirch Masala (1986),Drama|Thriller
+1887,Khilona (1996),Drama|Romance
+1888,Gharwali Baharwali (1998),Comedy
+1889,Saat Uchakkey (2016),Comedy
+1890,Anamika (1973),Mystery|Romance|Musical
+1891,Weapon,Action|Sci-Fi|Thriller
+1892,Collar Bomb (2021),Action|Thriller
+1893,Haqeeqat (1964),Action|Musical|War
+1894,Rajnigandha (1974),Drama|Romance
+1895,Party (1984),Drama
+1896,Ek Ladka Ek Ladki (1992),Comedy|Romance
+1897,Parzania (2005),Drama
+1898,Vodka Diaries (2018),Mystery|Thriller
+1899,Phool Khile Hain Gulshan Gulshan (1978),Drama|Children
+1900,Meri Biwi Ka Jawab Nahin (2004),Action|Comedy|Romance
+1901,Undertrial (2007),Crime|Drama
+1902,Agni Sakshi (1996),Drama|Musical|Romance
+1903,Suryaa: An Awakening (1989),Action|Drama
+1904,...Aur Pyaar Ho Gaya (1997),Comedy|Drama|Musical
+1905,Fever (2016),Crime|Mystery
+1906,Rakhta Charitra (2010),Action|Drama|Crime
+1907,Raag Desh (2017),Action|Drama
+1908,Pudhiya Geethai (2003),Action|Drama|Romance
+1909,Akaash Vani (2013),Drama|Romance
+1910,Kundan (1993),Action|Drama
+1911,Apradhi (1992),Action|Crime|Drama
+1912,House Arrest (2019),Comedy
+1913,Garm Hava (1974),Drama
+1914,Saat Hindustani (1969),Action|Adventure|Drama
+1915,ABCD (Any Body Can Dance) (2013),Drama|Musical
+1916,Nil Battey Sannata (2015),Drama|Children
+1917,Badmaash Babes (2023),Drama
+1918,376 D (2020),Crime|Thriller
+1919,Shola Aur Shabnam (1992),Action|Comedy|Drama
+1920,Naina (2005),Drama|Horror|Mystery
+1921,Noorie (1979),Drama|Children|Romance
+1922,Satya 2 (2013),Action|Crime|Drama
+1923,Marigold (2007),Comedy|Musical|Romance
+1924,Teraa Surroor (2016),Action|Drama|Romance
+1925,Be Happy,(no genres listed)
+1926,Valley of Flowers (2006),Adventure|Drama|Fantasy
+1927,Zameen (2003),Action|Adventure|Thriller
+1928,Odd Couple (2019),Drama
+1929,Ayee Milan Ki Raat (1991),Romance
+1930,Fakira (1976),Action|Drama|Thriller
+1931,SOS: Secrets of Sex (2013),Drama
+1932,Leera the Soulmate (2018),Sci-Fi
+1933,Red Rose (1980),Crime|Horror|Mystery
+1934,Ghar Ho To Aisa (1990),Drama
+1935,Khooni Mahal (1987),Horror
+1936,Crook: It's Good to Be Bad (2010),Action|Crime|Drama
+1937,Pareshan (2023),Comedy
+1938,Apaharan (2005),Action|Crime|Drama
+1939,InCar (2023),Drama|Thriller
+1940,Bhangra Paa Le (2020),Comedy|Drama|Musical
+1941,Krishna (1996),Action|Drama|Romance
+1942,Mumbai Express (2005),Action|Comedy
+1943,Shalimar (1978),Action|Adventure|Crime
+1944,Aadhi Bhagavan (2013),Action|Crime|Thriller
+1945,Kya Yehi Pyaar Hai (2002),Drama|Romance
+1946,Friendship (2021),Action|Crime|Drama
+1947,Dunno Y Na Jaane Kyun... (2010),Drama|Romance
+1948,Teen Devian (1965),Musical|Romance
+1949,Noblemen (2018),Drama
+1950,Angaar (1992),Action|Crime|Drama
+1951,3G: A Killer Connection (2013),Horror|Mystery|Sci-Fi
+1952,Jurm (2005),Crime|Drama|Mystery
+1953,Milenge Milenge (2010),Drama|Romance
+1954,Sri (2023),Drama
+1955,English Babu Desi Mem (1996),Comedy|Drama|Musical
+1956,Kahani Rubberband Ki (2022),Comedy|Drama|Children
+1957,Doosara Aadmi (1977),Drama|Children|Romance
+1958,Mithya (2008),Comedy|Crime|Thriller
+1959,Wajood (1998),Action|Crime|Drama
+1960,Arzoo (1965),Drama|Musical|Romance
+1961,Aamdani Atthanni Kharcha Rupaiya (2001),Comedy|Drama|Children
+1962,Ghar Parivaar (1991),Drama
+1963,Dev (2004),Drama
+1964,Khamosh (1986),Mystery|Thriller
+1965,Corporate (2006),Drama
+1966,Avtaar (1983),Drama
+1967,Juliet's X-Tape,Thriller
+1968,Munna (2007),Action
+1969,Loev (2015),Drama|Romance
+1970,Dushman Duniya Ka (1996),Drama
+1971,Girlfriend (2004),Drama
+1972,Humse Na Jeeta Koi (1983),Comedy
+1973,Sapoot (1996),Action|Crime|Drama
+1974,Aashik Aawara (1993),Drama
+1975,Andaz (1971),Drama|Romance
+1976,Masterji (1985),Comedy|Drama|Romance
+1977,Mr. X (2015),Action|Crime|Drama
+1978,Shaan (1980),Action|Adventure|Comedy
+1979,Biwi No. 1 (1999),Comedy|Drama|Romance
+1980,Angry Young Men,Drama
+1981,Love Nation (2023),Drama|Sci-Fi
+1982,Get Educated: Paathshaala (2010),Drama|Children
+1983,Doodh Ka Karz (1990),Action|Drama|Fantasy
+1984,Shortcut Romeo (2013),Action|Crime|Drama
+1985,Bhaiaji Superhit (2018),Action|Comedy|Drama
+1986,Himmat (1996),Action|Comedy|Drama
+1987,Siddharth (2013),Drama
+1988,C Kkompany (2008),Comedy|Drama|Thriller
+1989,Aan: Men at Work (2004),Action|Crime|Drama
+1990,Time Out (2015),Drama|Children|Musical
+1991,Monalisa (2021),Romance
+1992,Phool Aur Angaar (1993),Action|Drama
+1993,Jai Gangaajal (2016),Crime|Drama
+1994,Yudh (1985),Action|Crime|Drama
+1995,Knock Out (2010),Action|Crime|Drama
+1996,London Paris New York (2012),Romance
+1997,Vampires of Vijay Nagar,Comedy|Horror|Thriller
+1998,Khudgarz (1987),Drama
+1999,Bol Radha Bol (1992),Action|Comedy|Crime
+2000,Junglee (2019),Action|Adventure|Thriller
+2001,Thangalaan (2024),Action|Adventure|Drama
+2002,Irudhi Suttru (2016),Action|Drama
+2003,World Famous Lover (2020),Comedy|Drama|Romance
+2004,Chupke Chupke (1975),Comedy|Drama|Romance
+2005,Jahaan Chaar Yaar (2022),Comedy|Drama
+2006,Dil Dosti Etc (2007),Comedy|Crime|Drama
+2007,Krazzy 4 (2008),Comedy|Crime|Drama
+2008,Anupama (1966),Drama|Romance
+2009,Chacha Bhatija (1977),Action|Comedy|Drama
+2010,Ittefaq (1969),Crime|Mystery|Thriller
+2011,Patthar Ke Phool (1991),Action|Drama|Romance
+2012,The Death Sentence: Mrityu Dand (1997),Action|Drama
+2013,The Fighter Suman (2023),Action|Drama
+2014,Shor (1972),Drama
+2015,Batwara (1989),Action|Drama
+2016,Bullett Raja (2013),Action|Crime|Drama
+2017,Unfreedom (2014),Crime|Drama|Romance
+2018,Aaja Nachle (2007),Drama|Children|Musical
+2019,Albert Pinto Ko Gussa Kyon Ata Hai (1980),Comedy|Drama|Romance
+2020,Angaaray (1998),Action|Crime|Drama
+2021,Jeene Nahi Doonga (1984),Action
+2022,Woh 3 Din (2022),Drama
+2023,Testing Movie1 (2015),Animation|Adventure|Children
+2024,Mujhse Fraaandship Karoge (2011),Comedy|Drama|Romance
+2025,Quotation Gang,Crime|Thriller
+2026,Mere Apne (1971),Drama
+2027,Teri Khata (2022),Drama
+2028,Fight Club: Members Only (2006),Action|Crime|Drama
+2029,Hum To Mohabbat Karega (2000),Action|Comedy|Romance
+2030,Sanaa (2022),Drama
+2031,Karam (2005),Action|Crime|Drama
+2032,Majboor (1974),Drama|Mystery|Thriller
+2033,Chalte Chalte (1976),Romance|Thriller
+2034,Pran Jaaye Par Shaan Na Jaaye (2003),Comedy|Drama
+2035,Lootere (1993),Action|Romance|Thriller
+2036,Chand Sa Roshan Chehra (2005),Romance
+2037,Bobby (1973),Comedy|Musical|Romance
+2038,Dhruva (2016),Action|Crime|Thriller
+2039,Regina (2023),Crime|Thriller
+2040,Bhopal: A Prayer for Rain (2014),Drama
+2041,Saindhav (2023),Action|Crime|Drama
+2042,Christopher (2023),Action|Crime|Drama
+2043,Pyaar Impossible! (2010),Comedy|Romance
+2044,Insaf Ka Tarazu (1980),Crime|Drama
+2045,Sanjog (1985),Drama
+2046,Kyun! Ho Gaya Na... (2004),Comedy|Drama|Romance
+2047,Netaji Subhas Chandra Bose: The Forgotten Hero (2005),Drama
+2048,Khatta Meetha (1978),Comedy|Drama
+2049,Sector Balakot (2023),War
+2050,Nibunan (2017),Action|Crime|Thriller
+2051,Anari (1993),Comedy|Drama|Romance
+2052,MCA Middle Class Abbayi (2017),Action|Comedy
+2053,Music Teacher (2019),Drama|Romance
+2054,Taxi No. 9 2 11: Nau Do Gyarah (2006),Comedy|Drama|Thriller
+2055,Shatranj Ke Khilari (1977),Comedy|Drama
+2056,Main Khiladi Tu Anari (1994),Action|Comedy|Drama
+2057,Sangam (1964),Drama|Musical|Romance
+2058,Satte Pe Satta (1982),Action|Comedy|Drama
+2059,D Company (2021),Action|Crime|Thriller
+2060,The Test,Drama
+2061,Red: The Dark Side (2007),Drama|Romance|Thriller
+2062,Fool N Final (2007),Action|Comedy|Crime
+2063,Home Delivery: Aapko... Ghar Tak (2005),Comedy|Romance
+2064,MAX,(no genres listed)
+2065,Vaah! Life Ho Toh Aisi! (2005),Comedy|Drama|Children
+2066,Khandaani Shafakhana (2019),Comedy|Drama
+2067,Hostel (2011),Action|Crime|Drama
+2068,Lucknow Central (2017),Action|Crime|Drama
+2069,Tere Naal Love Ho Gaya (2012),Comedy|Drama|Romance
+2070,M.... Matric Pass (2014),Drama|Romance
+2071,Sanam Teri Kasam (2009),Action|Drama|Romance
+2072,Children of War (2014),Drama|War
+2073,Anjaana (1969),Romance
+2074,Mirzya (2016),Action|Drama|Fantasy
+2075,Boyfriend.com (2018),Drama
+2076,Mera Saaya (1966),Drama|Musical|Mystery
+2077,Mere Dad Ki Maruti (2013),Comedy|Drama|Romance
+2078,Shubh Nikah (2023),Comedy|Drama|Children
+2079,School Romance: Pure Love Web Series (2021),Romance
+2080,Andolan (1995),Action|Comedy|Drama
+2081,Gumnaami (2019),Action|Drama
+2082,Dobaara (2018),Drama|Romance
+2083,"Main, Meri Patni... Aur Woh! (2005)",Comedy|Drama|Romance
+2084,Guddi (1971),Drama|Comedy|Children
+2085,Shagird (2011),Action|Crime|Drama
+2086,Ishaqzaade (2012),Action|Drama|Romance
+2087,Do Anjaane (1976),Drama
+2088,Chalta Purza (1977),Action|Thriller
+2089,Safar (1970),Drama|Romance
+2090,Badhaai Ho Badhaai (2002),Comedy|Drama|Musical
+2091,Tera Intezaar (2017),Romance|Thriller
+2092,Sehra (1963),Drama|Romance
+2093,Welcome to Sajjanpur (2008),Comedy|Drama
+2094,Ram-Avtar (1988),Action|Drama|Romance
+2095,Mosagallu (2021),Crime|Drama|Thriller
+2096,Sardar Ka Grandson (2021),Comedy|Drama|Romance
+2097,Always Kabhi Kabhi (2011),Comedy|Crime|Drama
+2098,Xcuse Me (2003),Comedy
+2099,Chuhiya (2022),(no genres listed)
+2100,Dillagi (1999),Drama|Musical|Romance
+2101,Love Love Love (1989),Drama|Romance
+2102,Raaz 3: The Third Dimension (2012),Horror|Romance|Thriller
+2103,Ragini MMS (2011),Drama|Horror|Mystery
+2104,Lakeer Ka Fakeer (2013),Crime
+2105,Yeh Dillagi (1994),Comedy|Drama|Musical
+2106,Suspect (2022),Crime|Drama
+2107,Parwana (1971),Romance|Thriller
+2108,#Mute (2023),Thriller
+2109,Gulaab Gang (2014),Action|Drama
+2110,Yaraana (1995),Drama|Romance|Thriller
+2111,MSG: The Messenger of God (2015),Action|Comedy|Drama
+2112,Kaantha,(no genres listed)
+2113,Maa (1992),Drama|Fantasy|Horror
+2114,Tadapti Jawani (2005),Thriller
+2115,Bewafai (1985),Drama|Romance
+2116,God Tussi Great Ho (2008),Comedy|Drama|Fantasy
+2117,Chameli (2018),Drama
+2118,Paar (1984),Drama
+2119,Chori Chori (1956),Comedy|Musical|Romance
+2120,Super (2005),Action|Comedy
+2121,Tamanna (1998),Drama
+2122,Haunted Evil Dead (2022),Horror
+2123,Lal Baadshah (1999),Action|Crime|Drama
+2124,Teesri Aankh (1982),Action|Thriller
+2125,Phir Milenge (2004),Drama
+2126,Karm (1977),Drama|Children
+2127,Millitary Raaj (1998),Action
+2128,Jaan Tere Naam (1992),Drama|Romance
+2129,Madam Chief Minister (2021),Drama
+2130,Sabse Bada Khiladi (1995),Action|Crime|Thriller
+2131,Chaalbaaz in London (2022),Comedy
+2132,Pyaar Diwana Hota Hai (2002),Comedy|Drama|Romance
+2133,Bulandi (2000),Action|Drama
+2134,Bhakta Kannappa,Action|Adventure|Drama
+2135,Gaddaar (1995),Action|Drama|Romance
+2136,Maa Beta (1962),Comedy|Crime|Drama
+2137,Parvarish (1977),Action|Crime|Drama
+2138,Barkhaa (2015),Drama|Romance
+2139,Bheja Fry (2007),Comedy|Drama
+2140,Saheb Biwi Aur Gangster (2011),Action|Crime|Drama
+2141,Dil Maange More!!! (2004),Musical|Romance
+2142,Khullam Khulla Pyaar Karen (2005),Comedy
+2143,Pareeksha (2020),Drama
+2144,Gambler (1995),Action|Comedy|Crime
+2145,Humjoli (1970),Comedy|Drama|Romance
+2146,Wrong Way (2023),Horror
+2147,Zabardast (1985),Action|Drama
+2148,Salaakhen (1998),Action|Drama
+2149,Shlok - The Desi Sherlock,Crime|Thriller
+2150,Ravan Raaj: A True Story (1995),Action|Crime|Thriller
+2151,Anmol (1993),Drama|Children|Romance
+2152,Hebbuli (2017),Action|Drama|Thriller
+2153,Dadagiri (1987),Action|Crime|Drama
+2154,Tute Khwab (2019),Comedy|Children|Musical
+2155,Tony (2018),Thriller
+2156,Rosh (2023),Drama|Thriller
+2157,P Se Pyaar F Se Faraar (2019),Crime|Drama|Romance
+2158,The Royal Bengal Tiger (2014),Thriller
+2159,Brahmachari (1968),Comedy|Drama|Musical
+2160,Ekk Deewana Tha (2012),Drama|Romance
+2161,Missing (2018),Drama|Mystery|Thriller
+2162,Thugs (2023),Action|Thriller
+2163,Middle Class Love (2022),Comedy|Drama|Romance
+2164,Mutamestri (1993),Action|Drama
+2165,Akayla (1991),Action|Drama|Thriller
+2166,Oonche Log (1985),Drama|Children
+2167,Shikari: The Hunter (1991),Action|Adventure
+2168,RK/RKAY (2021),Drama
+2169,Go Goa Gone 2,Action|Adventure|Comedy
+2170,Double Dhamaal (2011),Comedy|Crime|Drama
+2171,Ek Chalis Ki Last Local (2007),Adventure|Comedy|Crime
+2172,Golmaal 5,Adventure|Comedy|Mystery
+2173,Jannat 2 (2012),Crime|Drama|Thriller
+2174,Zeher (2005),Crime|Drama|Mystery
+2175,Gangaajal (2003),Action|Crime|Drama
+2176,Junglee (1961),Comedy|Drama|Musical
+2177,Untitled Ranveer Singh & Shankar Film,(no genres listed)
+2178,Hum Paanch (1980),Action|Drama
+2179,Bandini (1963),Drama|Musical|Romance
+2180,Plan (2004),Action|Comedy|Crime
+2181,Shudra the Rising (2012),Drama
+2182,Ilaaka (1989),Action|Drama
+2183,Kamaal Dhamaal Malamaal (2012),Comedy|Drama
+2184,We R Friends (2006),Drama
+2185,Geet Gaata Chal (1975),Comedy|Drama|Children
+2186,Luv Ka the End (2011),Comedy|Drama
+2187,Thanedaar (1990),Action|Crime|Drama
+2188,Miss Mary (1957),Comedy
+2189,Bombai Ka Babu (1960),Drama|Musical|Romance
+2190,Souten: The Other Woman (2006),Thriller
+2191,Humko Tumse Pyaar Hai (2006),Drama|Romance
+2192,Faraar (1975),Action|Crime|Drama
+2193,Taxi Driver (1954),Musical|Romance
+2194,Kalicharan (1976),Action|Adventure|Crime
+2195,Heeriye,Thriller
+2196,Sur: The Melody of Life (2002),Drama|Musical|Romance
+2197,Time to Dance (2021),Musical|Romance
+2198,Nigahen: Nagina Part II (1989),Drama|Children|Fantasy
+2199,Kyo Kii... Main Jhuth Nahin Bolta (2001),Action|Comedy|Drama
