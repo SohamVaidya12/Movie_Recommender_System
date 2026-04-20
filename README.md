@@ -45,7 +45,6 @@ The system is designed to:
 - **Cosine Similarity**
 
 ---
----
 
 ## 🧠 Techniques Used
 
