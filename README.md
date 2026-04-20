@@ -98,6 +98,101 @@ Before recommendation:
 - Genres are standardized for better matching
 
 ---
+## 🏗️ System Architecture
+
+The CineFusion AI system follows a **modular pipeline architecture** that processes user input and generates movie recommendations using machine learning techniques.
+
+The architecture consists of the following stages:
+
+### 1. User Input Layer
+The user provides input through the Gradio interface:
+- Selects **Industry** (Hollywood / Bollywood)
+- Chooses a **Genre**
+- Selects the **number of recommendations**
+
+---
+
+### 2. Dataset Selection Module
+Based on the selected industry:
+- **Hollywood → movie.csv**
+- **Bollywood → bollywood_movies_only_2200.csv**
+
+This ensures that recommendations are domain-specific.
+
+---
+
+### 3. Data Preprocessing Layer
+The selected dataset undergoes preprocessing:
+- Handling missing values
+- Cleaning movie titles
+- Extracting release year
+- Standardizing genre format
+
+This improves the quality of recommendations.
+
+---
+
+### 4. Feature Engineering (TF-IDF Vectorization)
+The **genres column** is converted into numerical vectors using **TF-IDF Vectorizer**.
+
+This step transforms textual genre data into a machine-understandable format.
+
+---
+
+### 5. Similarity Computation (Cosine Similarity)
+The system computes similarity between:
+- User-selected genre
+- Movie genre vectors
+
+Cosine Similarity is used to measure closeness between vectors.
+
+---
+
+### 6. Recommendation Engine
+The system:
+- Ranks movies based on similarity score
+- Selects top N movies based on user input
+
+---
+
+### 7. Output Generation Layer
+The system generates:
+- Movie recommendation cards
+- Movie details (title, year, genres)
+- Trailer button for user interaction
+
+---
+
+### 8. User Interface Display (Gradio)
+Final results are displayed through an interactive **Gradio interface**.
+
+---
+
+## 📊 System Architecture Diagram
+
+**Figure 1: Block Diagram of CineFusion AI**
+
+```mermaid
+flowchart TD
+    A[User Input] --> B[Select Industry]
+    A --> C[Select Genre]
+    A --> D[Select Number of Movies]
+
+    B --> E{Dataset Selection}
+    E -->|Hollywood| F[movie.csv]
+    E -->|Bollywood| G[bollywood_movies_only_2200.csv]
+
+    F --> H[Data Preprocessing]
+    G --> H
+
+    H --> I[TF-IDF Vectorization]
+    I --> J[Cosine Similarity]
+
+    J --> K[Recommendation Engine]
+    K --> L[Top N Movies]
+
+    L --> M[Gradio Interface]
+    M --> N[Display Results + Trailer Links]
 
 ## 📂 Project Structure
 
