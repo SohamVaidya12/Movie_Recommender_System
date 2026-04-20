@@ -165,6 +165,16 @@ The system generates:
 
 ### 8. User Interface Display (Gradio)
 Final results are displayed through an interactive **Gradio interface**.
+#### 🏠 Home Page  
+<p align="center">
+  <img src="S1.jpeg" width="60%">
+</p>
+
+#### 💬 Chat Interface  
+<p align="center">
+  <img src="S2.jpeg" width="60%">
+</p>
+
 
 ---
 
