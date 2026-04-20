@@ -1,7 +1,7 @@
 
 # 🎬 CineFusion AI
 <p align="center">
-  <img src="L1.png" width="400">
+  <img src="LLogo.png" width="400">
 </p>
 
 CineFusion AI is a **genre-based movie recommendation system** built using **Python, Scikit-learn, Pandas, and Gradio**.  
