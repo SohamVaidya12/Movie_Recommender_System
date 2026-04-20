@@ -176,6 +176,7 @@ Final results are displayed through an interactive **Gradio interface**.
 
 **Figure 1: Block Diagram of CineFusion AI**
 </p>
+
 ---
 
 ## 📂 Conclusion
