@@ -170,6 +170,8 @@ Final results are displayed through an interactive **Gradio interface**.
   <img src="S1.jpeg" width="60%">
 </p>
 
+---
+
 #### Result 2 
 <p align="center">
   <img src="S2.jpeg" width="60%">
