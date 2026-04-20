@@ -172,9 +172,10 @@ Final results are displayed through an interactive **Gradio interface**.
 <p align="center">
   <img src="mermaid-diagram.png" width="500">
 </p>
+<p align="center">
 
 **Figure 1: Block Diagram of CineFusion AI**
-
+</p>
 ---
 
 ## 📂 Project Structure
